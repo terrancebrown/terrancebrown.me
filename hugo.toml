@@ -8,7 +8,7 @@ enableRobotsTXT = true
   description = "Meanderings on stationery, gaming, books, and the universe."
   author = "Terrance Brown"
   subtitle = "Meanderings and musings"
-  site_logo = "/images/site-logo.png"
+
 
 [params.ananke.social.follow]
   networks = ["mastodon", "bluesky", "github", "instagram", "linkedin"]
