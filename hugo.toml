@@ -44,10 +44,10 @@ enableRobotsTXT = true
   username = "terrancebrownza"
 
 [params.ananke.social.goodreads]
-  username = "Merkaba"
+  username = "merkaba"
 
 [params.ananke.social.letterboxd]
-  username = "merkaba"
+  username = "merkabaza"
 
 [params.ananke.social.rss]
   profilelink = "/index.xml"
