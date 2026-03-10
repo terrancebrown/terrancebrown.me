@@ -9,7 +9,6 @@ enableRobotsTXT = true
   author = "Terrance Brown"
   subtitle = "Meanderings and musings"
   favicon = "/favicon.svg"
-  site_logo = "/images/logo.svg"
 
 [params.ananke.social.follow]
   networks = ["mastodon", "bluesky", "github", "instagram", "linkedin", "goodreads", "letterboxd", "rss"]
