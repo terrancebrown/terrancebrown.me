@@ -13,6 +13,11 @@ theme = "ananke"
     weight = 1
 
 [[menu.main]]
+    name = "About"
+    url = "/page/about/"
+    weight = 2
+
+[[menu.main]]
     name = "Tags"
     url = "/tags/"
-    weight = 2
+    weight = 3
