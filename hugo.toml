@@ -7,6 +7,13 @@ theme = "ananke"
   description = "Meanderings on stationery, gaming, books, and the universe."
   author = "Terrance Brown"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
+  subtitle = "Meanderings and musings"
+
+[Params.social]
+  mastodon = "https://social.lol/@terrance"
+  github = "https://github.com/terrancebrown"
+  instagram = "https://www.instagram.com/merkabaza/"
+  linkedin = "https://www.linkedin.com/in/terrancebrownza/"
 
 [[menu.main]]
     name = "Blog"
