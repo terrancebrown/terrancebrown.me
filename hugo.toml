@@ -11,7 +11,21 @@ enableRobotsTXT = true
 
 
 [params.ananke.social.follow]
-  networks = ["mastodon", "bluesky", "github", "instagram", "linkedin"]
+  networks = ["mastodon", "bluesky", "github", "instagram", "linkedin", "goodreads", "letterboxd", "rss"]
+
+[params.ananke.social.networks.goodreads]
+  slug = "goodreads"
+  label = "Goodreads"
+  color = "#553b08"
+  profile = "https://www.goodreads.com/%s"
+  icon = "goodreads"
+
+[params.ananke.social.networks.letterboxd]
+  slug = "letterboxd"
+  label = "Letterboxd"
+  color = "#00c030"
+  profile = "https://letterboxd.com/%s/"
+  icon = "letterboxd"
 
 [params.ananke.social.mastodon]
   profilelink = "https://social.lol/@terrance"
@@ -28,6 +42,15 @@ enableRobotsTXT = true
 
 [params.ananke.social.linkedin]
   username = "terrancebrownza"
+
+[params.ananke.social.goodreads]
+  username = "Merkaba"
+
+[params.ananke.social.letterboxd]
+  username = "merkaba"
+
+[params.ananke.social.rss]
+  profilelink = "/index.xml"
 
 [markup]
   [markup.tableOfContents]
