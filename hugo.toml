@@ -9,11 +9,24 @@ theme = "ananke"
   featured_image = "/images/gohugo-default-sample-hero-image.jpg"
   subtitle = "Meanderings and musings"
 
-[Params.social]
-  mastodon = "https://social.lol/@terrance"
-  github = "https://github.com/terrancebrown"
-  instagram = "https://www.instagram.com/merkabaza/"
-  linkedin = "https://www.linkedin.com/in/terrancebrownza/"
+[params.ananke.social]
+  networks = ["mastodon", "bluesky", "github", "instagram", "linkedin"]
+
+[params.ananke.social.mastodon]
+  profilelink = "https://social.lol/@terrance"
+  rel = "me"
+
+[params.ananke.social.bluesky]
+  profilelink = "https://bsky.app/profile/merkaba.bsky.social"
+
+[params.ananke.social.github]
+  username = "terrancebrown"
+
+[params.ananke.social.instagram]
+  username = "merkabaza"
+
+[params.ananke.social.linkedin]
+  username = "terrancebrownza"
 
 [[menu.main]]
     name = "Blog"
