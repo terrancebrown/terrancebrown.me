@@ -6,6 +6,7 @@ theme = "ananke"
 [Params]
   description = "Meanderings on stationery, gaming, books, and the universe."
   author = "Terrance Brown"
+  featured_image = "/images/gohugo-default-sample-hero-image.jpg"
 
 [[menu.main]]
     name = "Blog"
