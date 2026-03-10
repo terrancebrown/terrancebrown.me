@@ -1,12 +1,15 @@
 ---
-title: About
+title: "About — A Life Abroad"
+description: "Terrance Brown — writer, reader, gamer, and world wanderer."
 comments: false
 ---
 
-## TLDR:
+## TLDR
+
 Born in the wilds of Cape Town, South Africa. Migrated across the world to Japan, followed by a few years spent in the metropolis of Shanghai enjoying maotai and Taobao. Now back in South Africa, and enjoying the sun and good coffee.
 
 ## The Long Version
+
 For the first 30 years of my life I lived in Cape Town before I jetted off to Japan where I lived for just 6 years before saying sayonara and hopping over to Shanghai.
 
 I first lived in the southern wilds of Kagoshima where I had gorgeous weather and the majestic Sakurajima keeping me company before I moved to a small rural town in the south part of Nagano prefecture where I taught English at two high schools as well as trying to soldier on through the dreadful winters that Nagano is burdened with every winter.
@@ -24,12 +27,14 @@ When I do get around to blogging I usually write about whatever is on my mind, s
 No matter how you ended up on my blog I hope you'll enjoy reading through past posts and find something interesting.
 
 ## Social Media
+
 When it comes to using social media, I prefer to use decentralized, open, and free social networks.
 
 You can find me on the following services:
- 1. [Mastodon](https://social.lol/@terrance) – An alternative to Twitter.
- 2. [Bookwyrm](https://bookwyrm.social/user/merkaba) – A federated alternative to Goodreads.
- 3. [PixelFed](https://pixelfed.social/merkaba) – A federated alternative to Instagram.
- 4. [LinkedIn](https://www.linkedin.com/in/terrancebrownza/) – A network for professionals.
+
+1. [Mastodon](https://social.lol/@terrance) — A federated alternative to Twitter.
+2. [Bookwyrm](https://bookwyrm.social/user/merkaba) — A federated alternative to Goodreads.
+3. [PixelFed](https://pixelfed.social/merkaba) — A federated alternative to Instagram.
+4. [LinkedIn](https://www.linkedin.com/in/terrancebrownza/) — A network for professionals.
 
 You can find all my other numerous sites and miscellaneous links [here](https://terrance.omg.lol/).

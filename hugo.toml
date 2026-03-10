@@ -2,13 +2,15 @@ baseurl = "https://terrancebrown.me"
 DefaultContentLanguage = "en"
 title = "A Life Abroad"
 theme = "ananke"
+enableRobotsTXT = true
 
 [Params]
   description = "Meanderings on stationery, gaming, books, and the universe."
   author = "Terrance Brown"
   subtitle = "Meanderings and musings"
+  site_logo = "/images/site-logo.png"
 
-[params.ananke.social]
+[params.ananke.social.follow]
   networks = ["mastodon", "bluesky", "github", "instagram", "linkedin"]
 
 [params.ananke.social.mastodon]
@@ -27,6 +29,21 @@ theme = "ananke"
 [params.ananke.social.linkedin]
   username = "terrancebrownza"
 
+[markup]
+  [markup.tableOfContents]
+    startLevel = 2
+    endLevel = 3
+    ordered = false
+
+[[cascade]]
+  [cascade._target]
+    path = "/post/**"
+  [cascade.params]
+    toc = true
+
+[markup.goldmark.renderer]
+  unsafe = true
+
 [[menu.main]]
     name = "Blog"
     url = "/post/"
@@ -38,6 +55,7 @@ theme = "ananke"
     weight = 2
 
 [[menu.main]]
-    name = "Tags"
-    url = "/tags/"
+    name = "Contact"
+    url = "/page/contact/"
     weight = 3
+
