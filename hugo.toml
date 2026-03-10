@@ -4,13 +4,12 @@ title = "A Life Abroad"
 theme = "ananke"
 enableRobotsTXT = true
 
-[Params]
+[params]
   description = "Meanderings on stationery, gaming, books, and the universe."
   author = "Terrance Brown"
   subtitle = "Meanderings and musings"
   favicon = "/favicon.svg"
   site_logo = "/images/logo.svg"
-
 
 [params.ananke.social.follow]
   networks = ["mastodon", "bluesky", "github", "instagram", "linkedin", "goodreads", "letterboxd", "rss"]
@@ -59,15 +58,14 @@ enableRobotsTXT = true
     startLevel = 2
     endLevel = 3
     ordered = false
+  [markup.goldmark.renderer]
+    unsafe = true
 
 [[cascade]]
   [cascade._target]
     path = "/post/**"
   [cascade.params]
     toc = true
-
-[markup.goldmark.renderer]
-  unsafe = true
 
 [[menu.main]]
     name = "About"
@@ -83,4 +81,3 @@ enableRobotsTXT = true
     name = "Contact"
     url = "/page/contact/"
     weight = 3
-
