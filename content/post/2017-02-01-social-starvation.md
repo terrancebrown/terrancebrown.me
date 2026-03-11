@@ -5,6 +5,8 @@ tags: ["tech"]
 ---
 One of the habits I wanted to break in 2016 was the large amount of time that I wasted using social media sites. Day after day I would keep on checking Twitter, Facebook, Tumblr, and Instagram several times during the day.
 
+<!--more-->
+
 Thinking back on it I have no idea why I became so reliant on social media. It's great being able to see photos and status updates of my family and friends back in South Africa, but for every useful post I see on Facebook I'm having to sort through 100 posts or ads for things I have no interest in.
 
 It's probably no surprise that it was around the time of the American presidential elections that I decided to call it quits and deactivated my Facebook account.

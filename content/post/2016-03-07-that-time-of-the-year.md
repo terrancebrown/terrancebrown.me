@@ -5,6 +5,8 @@ tags: ["personal"]
 ---
 If there is one constant in Japan, it is that you **will** somehow end up getting the flu here at least once. And I don't mean the *flu* as in a rather bad cold that makes you feel all miserable and grumpy, but rather full blown influenza that sees entire classes being told to stay home for fear the flu virus rampages through your school.
 
+<!--more-->
+
 In my first year in Japan I was unfortunate enough to get my first taste of the flu smack dab in the middle of winter when I was living by myself. Needless to say the trek through to the hospital and the subsequent week of recuperating alone at home while sick was probably the toughest time of my first year in Japan.
 
 I was fortunate enough to get some pretty good medicine from the doctor I visited, which included a 30 minute lie down with an I.V. drip! I’ve found that the only way to get ‘proper’ medicine that actually works is to go to a clinic rather than the drug stores in Japan. Usually the dosages are too low to be effective for me and it just prolongs my suffering rather than alleviating any of my symptoms.

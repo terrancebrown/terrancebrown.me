@@ -5,6 +5,8 @@ tags: ["books"]
 ---
 2020 has made me realize that I have a book hoarding problem. My shelves are groaning under the weight of accumulated books and pages and words of literature. And no matter how much I dedicate myself to reading, the pile never seems to get any smaller.
 
+<!--more-->
+
 [Tsundoku](https://en.wikipedia.org/wiki/Tsundoku) (積ん読) is the Japanese word that perfectly describes my current situation, "...acquiring reading materials but letting them pile up in one's home without reading them". And I do indeed have a habit of buying plenty of books, without realising that there's a very good chance that I won't be able to read them!
 
 The crazy thing is that many of the books I buy are the same titles, but just different editions or cover designs. *Call of Cthulhu* by HP Lovecraft is one such example. I [own](https://www.bookdepository.com/Call-Cthulhu-Other-Weird-Stories-Penguin-Classics-Deluxe-Edition-H-P-Lovecraft/9780143106487?ref=grid-view&qid=1613132584353&sr=1-7) [three](https://www.bookdepository.com/Call-Cthulhu-H-P-Lovecraft/9780241260777?ref=grid-view&qid=1613132584353&sr=1-6) [copies](https://www.bookdepository.com/Call-Cthulhu-Other-Weird-Stories-H-P-Lovecraft/9780143129455?ref=pd_gw_1_pd_gateway_1_1) of it!

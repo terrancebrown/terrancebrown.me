@@ -5,6 +5,8 @@ tags: ["gaming"]
 ---
 You remember a while back when I wrote about [my frustrations with Konami](/post/2016-01-27-oh-konami/)?
 
+<!--more-->
+
 Well, a YouTuber by the name of RagnarRox just released a video today shedding an insightful light on what could have been the reasoning behind the cancellation of P.T.
 
 Of course it is based on speculation but it is definitely worth watching if you're interested in gaming behind the scenes.

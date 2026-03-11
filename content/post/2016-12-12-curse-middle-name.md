@@ -5,6 +5,8 @@ tags: ["japan"]
 ---
 One of my pet peeves on about living in Japan is just how hard it can be sometimes to get things done when you have a middle name.
 
+<!--more-->
+
 The last month or two have seen me frantically trying sort out a bevy of accounts that I’m trying to move over to my new bank account and my new credit card. Every few weeks I find a letter from one company or the other saying that I have to redo my payment change request since the names don’t match. This of course sees me having to go through all the steps of filling out more paperwork and frantically hoping that this time around the company will somehow accept my application.
 
 There are some cases where a company just seems oblivious to the fact that many people around the world have a middle name at all. When I tried to open a bank account with Sony Bank a few weeks back their online application just refused to accept any form of my middle name and when I contacted their support center they pretty much told me that the only way to open an account with them was via a postal application, and that I’d also have to write my first and middle names as one name with no space between the two. Needless to say I decided that if a bank has such an archaic way of dealing with my case I’d rather take my business elsewhere.

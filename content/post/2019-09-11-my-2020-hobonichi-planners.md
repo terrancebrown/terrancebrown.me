@@ -5,6 +5,8 @@ tags: ["writing"]
 ---
 This year I'm trying to buck the trend and get my annual Hobonichi post out way ahead of the new year! So if you're keen to see what I've opted for this year and how I plan to use my journals then grab a cup of coffee and read on.
 
+<!--more-->
+
 ![Makino Navy x Brown](/assets/post-images/makino.jpg)
 
 ## Makino Collection / Navy x Brown

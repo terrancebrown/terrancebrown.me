@@ -5,6 +5,8 @@ tags: ["podcast"]
 ---
 It's been a while since I last managed to get out a video and podcast as part of our *Miskatonic Alumni Association* side-project, but your patience is rewarded as today sees the release of the latest video discussion.
 
+<!--more-->
+
 In this video we take a look at three films: *The Thing*, *Prince of Darkness*, and *In The Mouth Of Madness*. The three films form what is known as the *Apocalypse Trilogy*, a thematically connected series of films from John Carpenter of *Halloween* fame.
 
 I'll embed the video below. So sit back and enjoy a quick jaunt through the Lovecraftian themes on offer in these three magnificent films.

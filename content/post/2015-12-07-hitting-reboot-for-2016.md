@@ -5,6 +5,8 @@ tags: ["personal"]
 ---
 Wil Wheaton recently wrote a post about [rebooting his life][1], which got me thinking about steps I could take to try and improve my life as well. The new year is also fast approaching so its pretty much perfect timing on my part to start reassessing where I am and what I want in the foreseeable future.
 
+<!--more-->
+
 Truth be told, currently Im pretty happy where I am. Ive got a good job that sees me interacting with students and colleagues every day rather than being trapped at a desk for hours on end; I'm living in a country that has a low crime rate and a high regard for the concept of community. These are all things that make me glad to get up every morning and head off to work and I wouldn't exchange any one of them for all the money in the world.
 
 So with all that out the way, what are the things I want to do to try and reboot my life?

@@ -5,6 +5,8 @@ tags: ["personal"]
 ---
 If you’re wondering what exactly happened with my last past where I talked about my Canada trip and visit to the doctor then fear not, you’re not just imagining that it’s vanished into the mists of time and crevice between the internet’s seat cushions. Some background changes to my hosting meant that my poor backup routines finally came back to bite me and meant that I lost my last post as well as numerous other posts that I had transferred over from another site.
 
+<!--more-->
+
 A few weeks back I decided to try and streamline all the domains and sites I was no longer using to try and rather focus on this site keep all my writing, etc in one place. The more I thought about it, the more apparent it became that by spreading myself so thin I was less likely to actually write!
 
 So after some thought I’ve managed to whittle down my online presence to these three places:

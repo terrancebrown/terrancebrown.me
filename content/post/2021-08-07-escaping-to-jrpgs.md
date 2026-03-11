@@ -6,6 +6,8 @@ tags: ["gaming"]
 
 With more time on my hands, I've been enjoying a resurgence in my gaming time. I've already talked about the *huge* amount of time I've sunk into [Rocket League](/post/2021-07-20-supersonic-acrobatic-rocket-powered-battle-cars-the-sequel/), but today I want to talk about how lockdown has rekindled my love of [JRPGs](https://en.wikipedia.org/wiki/History_of_Eastern_role-playing_video_games#Japanese_role-playing_games).
 
+<!--more-->
+
 Way back in the days of the PlayStation 1, I first came across Final Fantasy 7, and I was hooked on JRPGs. The story, characters, and scope of the game just blew my mind. How could a small CD hold so much? It also helped that being a poor kid meant you could enjoy every single one of the hundreds of hours of gameplay in FF7 without having to buy any DLC or other games.
 
 Fast-forward to adulthood, and the prospect of juggling a JRPG of several hundred hours with a full-time job and family life, and you can guess how quickly JRPGs took a back seat in my gaming life.

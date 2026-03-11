@@ -7,6 +7,8 @@ tags: ["japan"]
 
 After a long and hard 3 years of trying, I can finally join the ranks of the driving elite here in Japan after successfully having passed my driver's license test to transfer my South African license to a Japanese one.
 
+<!--more-->
+
 The Japanese driving test is one of the most infamous tests of patience in Japan. Every step of the process takes ages to do, and most people take anywhere from 2 to 10 or even more attempts to pass the practical test.
 
 Even in my case I went 8 times in total with only 4 of those times being able to actually get to drive. Every other time saw me turned away due to some problem with a form or being there at the incorrect time.

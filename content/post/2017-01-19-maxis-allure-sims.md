@@ -5,6 +5,8 @@ tags: ["gaming"]
 ---
 The first game I ever got on my first PC was [SimCity 2000][1] and I soon lost count of the hours I would lose trying to make the perfect city. It was the perfect blend of simulation and fun.
 
+<!--more-->
+
 The joy of any of the early Maxis games was just how easy it was to invest yourself in them. After all, everything in the game is usually directly created by you which means you'll have a far greater emotional investment in them than in other games. You could fire up SimCity for a quick 30 minutes, and then emerge 2 or 3 hours later.
 
 Of course the pinnacle of this was when Maxis released [The Sims][2]. soon almost everyone in the world had a copy and was busying creating little digital Sims and decorating their houses. As a guy you would think that choosing the right shade of carpet to match the wallpaper in my sim's house or choosing a matching table for my sim's dinner table would be boring, but on the contrary, each decision I made would have some sort of feedback from my sim. It's this interplay between your decisions as a player and the little digital sim that's so fascinating to watch.

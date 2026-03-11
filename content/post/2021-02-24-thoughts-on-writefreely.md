@@ -5,6 +5,8 @@ tags: ["tech"]
 ---
 I've always viewed myself as something of a good writer over the years. It's up for debate whether that is objectively true, though! One of my favourite pastimes is to actively embrace new writing tools in the hopes that they will help elevate my writing, whether it be through embracing the use of Markdown syntax or just providing a smooth publishing platform for my writing pieces. I've played around with Blogger, WordPress, Ghost, Hugo, Jekyll and Octopress, among many others, and most recently I decided to give [WriteFreely](https://writefreely.org/) a try.
 
+<!--more-->
+
 WriteFreely is a federated writing platform that is focused on your words. There's absolutely no CMS elements or widgets to tinker with, and in my opinion that's a good thing. It's very much focused on letting you as a writer just focus on what matters most for both you and your readers.
 
 Using CMS platforms such as WordPress usually gets me tangled in a web of tinkering with site elements or trying to fix my RSS feed when a plugin goes awry. And each of those small obstacles to writing slowly adds up. You find yourself spending more and more time tweaking your site, and less and less time actually *writing*.

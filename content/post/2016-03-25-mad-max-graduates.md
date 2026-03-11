@@ -5,6 +5,8 @@ tags: ["japan"]
 ---
 Sometimes living in Japan does have it's perks, as in this case when students at Tama Art University in Japan decided that the best way for them to make their graduation ceremony memorable was to dress up as Immortan Joe and his War Boys.
 
+<!--more-->
+
 ![Mad Max Graduates](/assets/post-images/madmaxgraduates.jpg)
 
 Just in case you need a refresher on the characters from the movie to see how they compare, check out the trailer below.

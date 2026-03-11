@@ -5,6 +5,8 @@ tags: ["writing"]
 ---
 One of the things I want to accomplish in 2021 is to write more. and just by luck I stumbled on a rather cool initiative on Mastodon the other day: #100DaysToOffload.
 
+<!--more-->
+
 The concept is pretty simple, just write 100 posts on your personal site within a year.
 
 There's no pressure to write a novel or a viral post or anything really. It's just a goal to get the words out of your head and onto the screen. Posts can be long or short, indepth or simple. You can write about whatever comes to mind.

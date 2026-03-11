@@ -5,6 +5,8 @@ tags: ["tech"]
 ---
 With 2021 slowly going by, I’ve tried to keep myself busy by experimenting with new things. And one of those experiments has been with the fediverse. This meant that I’d need to try my hand at self-hosting on a VPS, something I’m not proficient in at all.
 
+<!--more-->
+
 I’ve focused on hosting a Pleroma instance and a WriteFreely blog. Both of them have been an interesting experience in using a VPS-based Linux server. While I’ve got plenty of experience in using Linux as my daily driver, I have never had to use a server before and that’s a whole different ballgame.
 
 You’ve got to make sure that you’ve hardened your server against anyone who might want to hack into it and cause mischief. There’s also a lot more manual intervention required. You have to constantly monitor whether your site is functional and updated.

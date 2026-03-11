@@ -7,6 +7,8 @@ tags: ["tech"]
 ---
 About a year ago I took to using a Fitbit Flex in the hopes that being able to see the raw numbers behind my daily activities would spur me on to exercise more and to lead a healthier life. Fast forward to now and my Flex is sitting in the dusty confines of a drawer as it sadly sobs in its loneliness.
 
+<!--more-->
+
 That's always been the problem with wearable tech for most people, it's only as good as the advice it gives you. My Fitbit collected tons of data on my daily steps and sleeping habits but it gave me no feedback on how to use all that data to improve my habits.
 
 Unfortunately most companies seem intent on providing more sources of data such as heart rate monitors and UV sensors along with gyroscopes and a million other types of sensors rather than focusing on the simple fact that people need some way of interpreting the mountains of data they are presented with.

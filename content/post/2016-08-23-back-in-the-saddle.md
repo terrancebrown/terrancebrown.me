@@ -5,6 +5,8 @@ tags: ["personal"]
 ---
 So after a long break that started at the end of July when JET contract ended, I've had to finally get back into the groove of waking up early and going in to work.
 
+<!--more-->
+
 After the wonderful holiday I had back in South Africa and the relaxing week I had back in Nagano, it's a bit of a shock to my system to go back into school and nothing much has changed. Other than my desk being full of newspapers from the last month or so it could have been just yesterday that I had last come into work.
 
 The worst part of any holiday is the first few days of going back to work. Once you head into the office it's the final step in leaving behind all the wonderful memories and experiences of your travels and friendships.  You've got to reset your thinking and get back into the routine of your day-to-day life.

@@ -5,6 +5,8 @@ tags: ["personal"]
 ---
 I'm sure that I don't need to say it, but what a crazy year 2020 has been. I'm sure that for most people, 2020 was a year to throw out any plans that you may have had and I'm no exception to that.
 
+<!--more-->
+
 So as has been my tradition over the past few years, I'm going to attampt to once again take a look back at a topsy turvy 2020 and try to write what I hope to achieve in 2021.
 
 ## 2020

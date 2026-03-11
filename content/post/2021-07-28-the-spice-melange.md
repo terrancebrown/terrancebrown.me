@@ -8,6 +8,8 @@ For the last two years, I haven't had much of a chance to go to the movie theatr
 
 I've always been a huge fan of the Dune series by Frank Herbert, and I also loved the [1984 Dune move](https://en.wikipedia.org/wiki/Dune_(1984_film)) directed by David Lynch. There's something unique about the world and characters in the books that isn't present in most other science fiction universes. The themes and topics touched on in the books are still as relevant today as they were back in the 1960s when the first book was published.
 
+<!--more-->
+
 The series has also had a strong presence in video games, with [Dune II: Battle for Arrakis](https://en.wikipedia.org/wiki/Dune_II) being one of the first RTS games that influence many other games that came after it.
 
 What I'm trying to get at here is that despite the long legacy of Dune, it has struggled to achieve anything resembling mainstream success in theatres. But that is set to hopefully change with the new [Denis Villeneuve movie](https://en.wikipedia.org/wiki/Dune_(2021_film)) that will release later this year. His previous films have all been magnificent science fiction epics, and he even managed to make a really great Blade Runner sequel, something that I always thought would be impossible. With his talent and a cast filled to the brim with amazing actors, I am really excited to see what the final movie will look like.

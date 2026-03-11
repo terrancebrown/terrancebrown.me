@@ -5,6 +5,8 @@ tags: ["writing"]
 ---
 I've already written [two](/post/2015-02-18-a-look-at-the-hobonichi-techo/) [posts](/post/2016-09-06-another-year-another-hobonichi/) about my experiences with the Hobonichi Techo planner and while I've covered both the A6 Original and the A5 Cousin versions, I haven't had a chance to talk about the smaller Weeks version.
 
+<!--more-->
+
 As I'm typing this, the Spring versions of the Hobonichi series of planners has just been released. Every year the Hobonichi guys and gals have two main release dates:
 
   1. The September release for the year's new books and cover designs for planners that run from January to December of the following year; and

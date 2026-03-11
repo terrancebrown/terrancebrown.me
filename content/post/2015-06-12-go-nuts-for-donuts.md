@@ -5,6 +5,8 @@ tags: ["japan"]
 ---
 Coming from South Africa meant that I grew up sorely lacking in the field of donuts and coffee. We've got very few coffee chain stores on the scale of Starbucks (heck, last I heard we only had a grand total of **3** Starbucks in all of South Africa). Donuts too, eluded me with Krispy Kreme, Dunkin' Donuts and countless other donuts stores opting to evade the South African market for greener pastures.
 
+<!--more-->
+
 Luckily for me Japan's convenience stores have decided to take on the battle of the donuts this year and have started offering donuts in almost all their stores throughout Japan. This comes after the last few years saw every chain of convenience stores in Japan offering freshly brewed and cheaply priced coffee to lure in the early morning rush of office workers who need a little pick me up before they head into the office for the rest of the day.
 
 Convenience stores in Japan actually have a history of trying to one-up each other by consistently offering new products or services in the hopes of enticing more customers to choose them over their competitors. You can pay bills, reserve tickets for buses, concerts and sporting events, buy a new tie or even a fresh pair underwear if you find yourself caught short!

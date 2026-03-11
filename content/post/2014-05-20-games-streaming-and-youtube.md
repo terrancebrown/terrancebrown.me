@@ -5,6 +5,8 @@ tags: ["gaming"]
 ---
 So hot on the heels of my last post about the viability of streaming for the games industry in which I remarked on the popularity of Twitch it has now been [rumored that YouTube is looking to buy Twitch for a cool $1 billion][1].
 
+<!--more-->
+
 This shouldn't have actually com as much of a surprise to anyone who has followed YouTube's belated attempts to enter the game streaming market and seen how they've failed to get anywhere close to Twitch's popularity. Twitch itself has also struggled to scale to with its phenomenal growth which has led to poor stream quality and chat delays for end users.
 
 So on the face of it this almost seems like a no-brainer for Twitch right? Google's massive server farm that backs YouTube should make the streaming and viewing experience a hundred times better for us as users and allow the guys at Twitch to be able to meet the growing need of their users.

@@ -8,6 +8,8 @@ Well that was a bit of a break from writing now wasn’t it!
 
 Life has been busy busy busy the last few months (nearly a year!) and this is the first time in ages that I can just take a short break and sit down to reflect on the last few months.
 
+<!--more-->
+
 So what exactly has happened in my world since we last spoke?
 
 First off, I am now gainfully employed as the manager of a bookshop in one of the most beautiful cities in the world, Franschhoek! It’s been a very busy time setting up a store from scratch and making sure everything runs smoothly. Working in retail also brings a lot of stress, which has seen me gain a couple of kgs since starting work in June. It’s rewarding though. I’ve loved interacting with customers and selecting books for the store. I’m also working with staff that are very easy to get along with, which most definitely helps.

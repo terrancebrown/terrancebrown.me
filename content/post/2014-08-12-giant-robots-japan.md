@@ -7,6 +7,8 @@ tags: ["japan"]
 
 One of the first things that students learn when I introduce myself to them is that I'm a fan of the Japanese animation series, [_Neon Genesis Evangelion_][1].
 
+<!--more-->
+
 I'm not going to geek out though in this post and write paragraph after paragraph of prose about it's deep themes or excellent take on the giant robot genre of animation that is so quintessentially Japanese. What I do want to talk about, though, is just how endearingly popular this show is in Japan today, even though it originally aired in 1995.
 
 In fact there have even been three films released since 2007 in Japan that are a brand-new take on the show with new characters and a slightly different story. They've been immensely popular and introduced a whole new generation of movie goers to Shinji, Rei and Asuka and their giant Eva robots as they battle angels who seem bent on bringing about the Third Impact and the destruction of earth.

@@ -5,6 +5,8 @@ tags: ["writing"]
 ---
 Yeah, I know. Bloggiversary is not a real word,  but I feel justified in using it to celebrate the fact that this blog has been up and going for just over three years.
 
+<!--more-->
+
 I've been blogging far longer of course, with several now defunct blogs / domains and I stupidly never kept any local backups of my posts which means that most of them are now lost in the mists of time. Maybe that's for the best as most of my early writing wasn't up to much. (Some would say that hasn't changed!)
 
 I think that despite the numerous changes and challenges in my life the one bedrock for me has been the ability to put virtual pen to paper and let me ideas and thoughts flow out into the wider universe that the internet allows me to reach. I'll probably never have any sort of fan following or readers clamouring for a new post but I still feel a sense of accomplishment every time I hit that publish button.

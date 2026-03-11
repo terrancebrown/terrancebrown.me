@@ -5,6 +5,8 @@ tags: ["japan"]
 ---
 So after all the movement of teachers and students during the end of March and the start of April it's finally gotten a bit more settled at school with only the final welcome _enkai_ later today remaining before the new school year starts in full earnest with the official opening ceremony.
 
+<!--more-->
+
 Not a moment too soon either! My wallet has taken a beating over the last week or so with an almost never-ending stream of 送別会 (farewell parties) to say goodbye to the teachers moving on to greener pastures as well as 歓迎会 (welcome parties) to welcome in the new teachers.
 
 Each of these parties is pretty much a formal occasion with speeches for each of the teachers. At the farewell parties the school headmaster makes a short speech for each teacher who is leaving and mentions how long they've been at the school and where they're being transferred to as well as some funny comments. Each of the teachers will also give a speech and usually it's also done in a lighthearted manner. Afterwards one of the other teachers from their department goes over and hands them a bunch of flowers and maybe does a small speech as well. Usually the entire ceremony can go on for close to three hours since it's interspersed with breaks for food and chatting and the usual _enkai_ traditions of opening speeches and the _banzai_ at the end of the ceremony.

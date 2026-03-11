@@ -5,6 +5,8 @@ tags: ["books"]
 ---
 One of my childhood passions was reading. I would take part in my local library's reading contest every year and read as much as possible. And I could find no joy greater than opening a book and losing myself in a world of the author's creation until I turned the final page.
 
+<!--more-->
+
 As I've grown older I've found it much harder to keep up with the voracious appetite for books I once used to have. Adulthood has a way of using up what little free time you have and leaving you with no time to do much of anything other than sleep.
 
 But a month or two ago I made a concious decision to try to read more often. This was simply because I felt like I was really missing the joy I'd had as a child when losing myself in a book and the healthy break it can give you from the everyday stresses of life.

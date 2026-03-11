@@ -5,6 +5,8 @@ tags: ["personal"]
 ---
 A couple of weeks ago I had to go into a local hospital for a small operation and the entire experience reminded me why I am so in love with the Japanese healthcare system.
 
+<!--more-->
+
 Three days of hospital stay and an operation would have cost me a pretty penny in South Africa, but here in Japan the national health system helps me out quite a bit which meant I only had to cover 30% of the cost out of my own pocket. Much more conducive to a happy wallet and a happy me!
 
 Add to that the quality of the staff and doctors as well as the exceedingly short waiting times for appointments and I'm glad that I managed to get through the entire experience here in Japan even though my Japanese is far from proficient when it comes to describing medical problems and procedures.

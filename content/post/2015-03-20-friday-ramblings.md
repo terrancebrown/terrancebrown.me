@@ -5,6 +5,8 @@ tags: ["japan"]
 ---
 It just struck me today that in a few months I'll be entering my fifth year as a JET ALT this coming July.
 
+<!--more-->
+
 I stumbled on the email I got from the South African embassy all the way back in 2011 to tell us the details of our final arrangements which was pretty nostalgic to read. At that point I had no idea what my school would be like or what my town was like or how to even teach English classes!
 
 I'd also just finished a stint as a financial manager at a company that closed it's doors just a month before I had to leave for Japan so the timing couldn't be better for me. I was also reaching a point where I'd become rather disenchanted with working in finance so the chance to try my hand at teaching a language was a fantastic prospect to me.

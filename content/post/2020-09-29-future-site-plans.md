@@ -5,6 +5,8 @@ tags: ["personal"]
 ---
 So after the last update I posted I thought it might be good to try and write a bit more about what I want this site to become and my other writing plans.
 
+<!--more-->
+
 Looking back at my writing from ten years ago via the Wayback Machine I was surprised at just how much more frequently I used to write back then. I wrote about an eclectic mix of open source tips. personal life events and anything else that struck me as interesting or worth putting down in words on my blog. It was also a time when *blogging* was seen as something much more popular than it is today. Short tweets and Facebook posts are where most people tend to express themselves with other sites such as Reddit and Tumblr grabbing the remainder of the attention of people who want to share their thoughts and opinions. I still think there is plenty of opportunities and space for traditional style blogging, but then again I've never been too concerned with whether or not I have an audience. Most of my writing tends to be for myself, either as a way to document things in my life or as a way to hone my writing skills.
 
 So what does this mean for the site? Well for one thing I want to blog more regularly. I think that writing is something that I enjoy doing and its something that I very much want to work at improving. Comparing what I write today to what I used to write I'm a bit concerned that my skills as a writer have atrophied to an alarming degree. hopefully practice makes perfect and the more I can write, the more comfortable I can get with my writing and prose.

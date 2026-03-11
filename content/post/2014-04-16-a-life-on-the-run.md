@@ -5,6 +5,8 @@ tags: ["personal"]
 ---
 A few years back if you'd asked me if there was any chance of me becoming a regular jogger I'd have probably died from laughter. Fast forward to now though and most days after I get home from school I strap on pair of trainers and take to the roads winding through the rice fields near my apartment.
 
+<!--more-->
+
 It's gotten to be pretty much an obsession with me, to the point where I've actually bought a heart rate monitor and [log all my sessions on Runkeeper][1].
 
 A few years back I got into walking simply as a way to lose weight and get into shape. I'd go every day for 30 minutes or an hour and it was refreshing to get out in the fresh air and not be stuck behind a desk in an office.

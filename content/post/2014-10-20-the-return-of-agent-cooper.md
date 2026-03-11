@@ -8,6 +8,8 @@ tags: ["tv"]
 
 It's hard to believe that a show such as *Twin Peaks* is now a quarter of a century old when it feels like just the other day that I was enthralled in the lives of the show's characters and the underlying mystery of the town of [Twin Peaks][1] itself.
 
+<!--more-->
+
 But even though it has been 25 years the show still seems to have the power to keep staying in the public's collective unconsciousness with its unique mix of small town America drama and [David Lynch][2] twists. Its influence has been so great that almost every cult show that has followed owes it thanks.
 
 For people who don't know anything about the show, it involved a small town in the Pacific Northwest called Twin Peaks and the murder of a high school girl called Laura Palmer that saw Kyle MacLachlan's character, Agent Dale Cooper from the FBI, arriving in town. Needless to say with David Lynch at the helm there is far more to the show than a simple murder mystery.

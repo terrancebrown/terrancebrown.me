@@ -5,6 +5,8 @@ tags: ["personal"]
 ---
 One of the few posts I get around to writing regularly, other than my countless Hobonichi planner posts, is my yearly recap and outlook for the year that passed and the year to come. This year though, things have been rather... interesting to put it lightly.
 
+<!--more-->
+
 First things first though. Let's talk about 2019.
 
 Last year was a year of change for me, with my workplace moving to a different school and while in the past I've always been nervous or concerned about finding work I surprised myself by being nonchalant in a way that I have never been before.

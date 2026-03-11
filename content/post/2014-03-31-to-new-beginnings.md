@@ -5,6 +5,8 @@ tags: ["teaching"]
 ---
 With the end on March finally here the school year is now officially over and us teachers have to get ready for a new group of students to arrive and try our best to make sure that they can cope with their school lives and start their journey to university and an eventual career in whatever field they choose.
 
+<!--more-->
+
 We also have a new group of teachers arriving and for me this means that I'll be getting a new supervisor since that's the responsibility that's usually foisted on the youngest member of the English department as the other teachers don't really have time for it. It also means that I'll be teaching with different teachers but that's a more than welcome change for me after a lot of issues I had with how the first year English course was run last year.
 
 With a new school year that means that I'll also have another round of self-introduction lessons to go through. As an ALT your self-introduction lesson is the one lesson you'll hone to a fine point shortly after arriving in Japan. Mainly because it's a lesson you will do so many times for each new school or class that by the end of your first year you can recite it backwards in your sleep. For me though it's always been one of my favourite lessons seeing that I don't come from America or England or any of the other more *popular* countries that take part in JET. That means that everything I talk about is a learning experience for my students and is full of info and stories that they won't have been exposed to a million times before on TV or in books.

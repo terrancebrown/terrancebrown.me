@@ -5,6 +5,8 @@ tags: ["personal"]
 ---
 A few weeks ago I could feel the first onset of a cold, which was not surprising as this is the time of year that my body decides to just give up any semblance of defending me from the onslaught of viruses and bacteria and let me succumb to their illnesses and ailments. The winters here in Nagano _kill_ me.
 
+<!--more-->
+
 So when I woke up on Friday morning instead of jumping from my bed with joy at the prospect of a new day full of possibility, I awoke to a throat full of razor blades and a cough that sounded like Godzilla on a bad day. With every rasping breath my throat felt like it was being sandpapered. I managed to get up and get ready for work but around lunchtime I decided that it was time to call it a day and head back home to lie in my bed and hope to feel better. So after asking for the afternoon off I quickly headed through to the dentist to cancel my appointment for later that day before heading home and gladly falling into my bed’s embrace.
 
 Now normally I’d be rather sad and despondent that my weekend would see me spending the majority of my time in my PJs and my bed, but instead I found myself enjoying being lazy and not having to worry at all about not doing a single lick of work or having and responsibilities for an entire weekend.

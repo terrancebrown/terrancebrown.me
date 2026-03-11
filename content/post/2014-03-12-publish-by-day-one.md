@@ -5,6 +5,8 @@ tags: ["writing"]
 ---
 Before starting up this blog I’d had a break of about 3 years when I did no writing on the web. My previous blogs all went the way of the dodo and due to my move to Japan I had to stop writing for the various sites and publications I was working for back in South Africa.
 
+<!--more-->
+
 Even though I wasn’t writing anything online I kept a pen and paper journal on a regular basis and tried to make the time to jot down my thoughts and ideas, my feelings and anything important that had happened to me.
 
 Journaling is actually a pretty important habit to get into as far as I’m concerned. It let’s you work out any frustrations you have, gain an insight into your own thinking, and let’s you remember your happiest times with friends and family. It also let’s you flex your brain muscles a bit on a daily basis, especially in a world where most people only seem to want to write 140 characters on Twitter or a short status message on Facebook it’s also something that lets you practice and perfect your writing skills.

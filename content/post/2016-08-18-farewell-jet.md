@@ -5,6 +5,8 @@ tags: ["japan"]
 ---
 Five years on the JET programme has now officially passed with my final JET contract coming to an end at the end of July this year. Whenever you come to the end of five years in any sort of job it is a big adjustment to move on to the next thing in your life.
 
+<!--more-->
+
 That’s part of the reason why I’ve been so scarce with spots over the last several months. I’ve had to go through for interviews and check into studying for a postgrad degree all while still trying to juggle my day to day classes and lesson planning. Not the easiest of schedules as you might well imagine!
 
 The good news is that I have managed to get a job as a direct hire ALT with the Nagano Board of Education and have even been fortunate enough to be posted at my two JET schools which means I don’t have to worry about moving to a new city and becoming used to new teachers, students, and schools.

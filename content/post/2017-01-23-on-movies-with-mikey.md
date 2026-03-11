@@ -5,6 +5,8 @@ tags: ["movies"]
 ---
 Whenever the weekend approaches the first thing I always think about is what movie I can watch. There's just something soothing to me about unwinding after a long week by watching a movie.
 
+<!--more-->
+
 One of my favourite series on YouTube is _Movies With Mikey_ which takes a look at films and talks about what makes them good (or not) from a film-making angle. What makes this series so perfect is not only that he really does an excellent job of breaking the films down in a positive way, but that he does it with such enthusiasm and delight for the medium and in a funny and engaging manner.
 
 A lot of the videos are upwards of 15 minutes and even though shorter videos are more popular on YouTube I still immediately watch _Movies With Mikey_ as soon as it pops up in my feed.

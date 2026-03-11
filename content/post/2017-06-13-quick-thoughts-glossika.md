@@ -5,6 +5,8 @@ tags: ["japan"]
 ---
 I’ve done plenty of language learning posts in the past. This time around I want to just give a quick shout out to a small company based out of Taiwan, called [Glossika][1], that I’ve started using to try to get my Japanese pronunciation and speaking skills up to scratch.
 
+<!--more-->
+
 When most people study a language they tend to go one of two ways:
 
   1. They buy a popular textbook and slowly work their way through the chapters, painstakingly learning the grammar rules of their target language and practising lists of vocabulary; or

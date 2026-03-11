@@ -7,6 +7,8 @@ tags: ["personal"]
 ---
 One of my main gripes with the winters here in Japan is that I lose the chance to get out for regular jogs. It's exacerbated by the longer commute I do at my new school which sees me arrive back home when it's pitch dark and freezing cold, not exactly the most wonderful environment to go jogging in.
 
+<!--more-->
+
 So with my much needed jogging sessions not being viable any longer and the threat of good home cooking and too much kotatsu time adding up to a potential gain in winter fat I was desperately searching for other ways I could stay in shape during winter without having to brave the cold of winter.
 
 Probably the one way most people would choose to do it is by joining a gym. After all, gyms are air conditioned and they have a wide variety of machines. I decided against joining a gym here in Japan though because they are pretty overpriced for what they have to offer, or at least the ones near where I live in the countryside are like that. South African gyms usually offer pools, squash courts and a wide selection of machinery but my local gyms are limited to only the bare minimum of machinery with nothing else other than an onsen if I'm lucky. And when you're paying more for a membership to a gym that offers you less it really doesn't make any sense to me.

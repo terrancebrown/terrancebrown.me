@@ -5,6 +5,8 @@ tags: ["personal"]
 ---
 With 2020 being a year that has seen almost everything normal being turned upside down, including our lives, I thought it might be high time for me to make good use of the free time I find myself with and get around to some spring-cleaning on the site. So hopefully I can give a brief update on how things have been for me so far in 2020 and how I'm hoping the site evolves in the foreseeable future. So let's get started shall we.
 
+<!--more-->
+
 First up, I thought it was high time that I shift away from Wordpress towards something more sustainable for me to run. Wordpress has pushed heavily towards their new block editor and has gotten far too clunky and bloated for my simple needs. So that left me with a few options:
 - Use a simpler blogging platform (such as [Chyrp Lite](https://chyrplite.net/));
 - move to a *free* blogging platform (e.g. Blogger, Tumblr)

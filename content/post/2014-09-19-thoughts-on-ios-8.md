@@ -7,6 +7,8 @@ tags: ["tech"]
 
 With September and October each year comes the arrival of the latest and greatest phone/s from Apple, and of course that also means that there will be a new version of iOS for those of us who will be sticking with our old iPhones and iPads.
 
+<!--more-->
+
 Ever since moving to Japan, I’ve been an Apple device user, and so I thought it might be useful to jot down a few of my thoughts and opinions now that I’ve had a chance to play around with the released version of iOS 8.
 
 First off, the change in design direction with iOS 7 is further refined in iOS 8 with several small touches that help to make the overall design feel a bit more coherent. I’m one of those people who really appreciated the move away from using ‘real’ textures in previous iOS versions, so every step away from that that Apple takes is a step in the right direction as far as I’m concerned.

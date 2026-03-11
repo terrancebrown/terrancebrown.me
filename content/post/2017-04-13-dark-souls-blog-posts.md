@@ -5,6 +5,8 @@ tags: ["gaming"]
 ---
 Throughout many years of gaming the one genre or style of game that has passed me by is the brutal style of gameplay that Demon souls, Dark Souls and Bloodborne introduced over the last couple of years.
 
+<!--more-->
+
 For those of you who are either not into gaming or who are also not familiar with these types of games, the genre that they popularized is pretty much a tough as nails action / RPG hybrid with a heavy focus on health and stamina management and a combat system that rewards patience and skill. It also doesn’t hold your hand at all and right from the get go you’ll find yourself coming up against enemies that beat you to a pulp with minimal effort.
 
 Imagine, if you will _The Karate Kid_. Demon Souls is like Mr Miyagi, but instead of being a likeable old man who teaches you how to become a karate expert through a series of simple everyday tasks, Demon Souls takes a heavy stick and beats you mercilessly until you feebly attempt to fight back.

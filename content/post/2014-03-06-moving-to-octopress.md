@@ -5,6 +5,8 @@ tags: ["writing"]
 ---
 So the first thing you might notice if you've been here before is that the site looks vastly different from before. Previously I was running it on an instance of Ghost 0.4.1. The second thing you might notice is that the site is no longer hosted on kibayanse.com, but rather a vanity URL - [terrancebrown.me](https://terrancebrown.me)
 
+<!--more-->
+
 So why the change? I love trying out new tech and software and my blogging is no stranger to that. I'd tried out Octopress a month or two back and liked it. It's simple and yet at the same time gives you a lot of power over customization without sacrificing speed. Since it's a static site generator it also does all the data grinding before pushing your site up to the internet. This means you won't have to worry about dealing with a database that might make your site less responsive.
 
 There was nothing really wrong with using Ghost as my site's backend, but I did want to use a solution that was a bit more *mature* in terms of features. Ghost hasn't yet reached the point where I'd use it for a site that's also looking to function as a portfolio of sorts. The fact that it doesn't have proper static page support just yet as well as the lack of social sharing options meant that I felt it best to wait until it was more mature. In the meantime Octopress offers all this while still being lightweight and easy to deploy.

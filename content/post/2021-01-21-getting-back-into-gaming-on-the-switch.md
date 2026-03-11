@@ -5,6 +5,8 @@ tags: ["gaming"]
 ---
 Despite having been stuck at home during the past year with COVID-19 restrictions in place, my gaming backlog stayed on pause. Simply because my gaming PC and PS4 are 12 000km away from me, which makes them quite hard to use! But as time passed on, I needed something to occupy my free time and help me to keep a sane mind. enter, the Nintendo Switch.
 
+<!--more-->
+
 I've never really owned a Nintendo console. I was a SEGA Mega Drive fan and moved on to Sony's PlayStation series of consoles after that. It's not that I had any real dislike for nintendo's systems. I loved all the franchises and enjoyed them on the odd occassion I'd play any of the games. but, for some reason they just never seemed to grab me as much as I expected them too.
 
 Fast forward to 2020 and a littel game came out called Animal Crossing New Horizons which jsut exploded in popularity. It came at the perfect time, with most people stuck indoors and looking for something to dsitract them from all the stress and worry caused by 2020. It was the perfect game at the perfect time.

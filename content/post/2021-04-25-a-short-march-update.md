@@ -6,6 +6,8 @@ tags: ["personal"]
 
 I've been a bit lax in terms of blogging lately. I've been meaning to write more, especially with the #100DaysToOffload challenge, but life has thrown a few obstacles in my way. With how 2020 and 2021 have gone, that is actually a blessing of sorts.
 
+<!--more-->
+
 I've still been working my way through my Netflix queue and gotten in some good gaming sessions, especially with Metal Gear Solid V, a game I absolutely love, no matter which platform I play it on. I've still neglected my reading queue though, and my pile of "To Be read" books is starting to stare angrily in my direction. I'll need to pick up the pace if I'm to read 20 books in total this year.
 
 My Linux dabbling has increased, and I've been a bit more active in the community lately on Twitter. I just need to try to also funnel some of that passion and creativity into my Linux website and the YouTube channel.

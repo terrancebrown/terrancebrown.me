@@ -5,6 +5,8 @@ tags: ["japan"]
 ---
 April is a time of year in Japanese schools that [I've written about before](/post/2014-03-26-the-annual-teacher-swap/), but despite that it still hasn't gotten any easier every year to see teachers I've come to know well move on to other schools.
 
+<!--more-->
+
 This year I've had to say goodbye to one of my favourite teachers at my visit school as she has had to move on to a new school after 8 years of teaching at my current visit school.
 
 When you teach for 8 years you become almost a part of the school and it's easy to see why she was so popular with the students there. She could manage their craziness perfectly and was an excellent teacher to team teach with, which is not something that is very common with many teachers in Japan unfortunately.

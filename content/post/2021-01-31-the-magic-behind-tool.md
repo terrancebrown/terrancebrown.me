@@ -5,6 +5,8 @@ tags: ["music"]
 ---
 I don't buy much music these days, [hardly anyone does](https://businesstech.co.za/news/business/463866/musica-closes-down/) it seems. But I've always made an exception for Tool. From the day I bought their album, *Lateralus*, I've never missed a release. Their packaging and design have always been top-notch. Their latest release, 2019's *Fear Inoculum*, carried on that tradition of excellence with a multimedia experience on a small screen that was built into the CD packaging that would play a video to accompany the album's tracks.
 
+<!--more-->
+
 One thing that's always been difficult to find out about Tool, has been the meaning of their music. They've done interviews and spoken on occasion about their writing process, but never in great detail. That's been part of the mystique surrounding them. The meaning of their lyrics and music has always been left to the listener's imagination. That's why you can listen to their albums multiple times, and always be rewarded with something new.
 
 A while back Kerrang had a good interview with Danny Carey and Justin Chancellor about *Fear Inoculum* and I thought I'd embed the podcast here for posterity. If you're into progressive metal then give it a listen.

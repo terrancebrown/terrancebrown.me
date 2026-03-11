@@ -5,6 +5,8 @@ tags: ["books"]
 ---
 I recently read an article detailing the decrease in the number of books read by the average American adult but rather than finding this something to be sad about in some ways there were a few positives to it.
 
+<!--more-->
+
 I myself am a rather avid reader as I was fortunate to grow up with a family that made weekly trips to the local library to stock up on books and all of us loved to lose ourselves between the covers of a good book. Most of my friends were the same as me and read prodigiously.
 
 The great thing about reading at such an early age is that there's an entire world of literature out there waiting for you, from the great classics to modern day literature. Most of all it gave me a good boost at school as I would read anything and everything I could get my hands on which helped me become a rather wordy person later on in my life.

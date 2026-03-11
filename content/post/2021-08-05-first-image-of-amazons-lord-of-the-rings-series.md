@@ -4,7 +4,9 @@ title: First Image of Amazon’s Lord of the Rings Series
 tags: ["tv"]
 ---
 
-Just this past week, the first image of Amazon's Lord of the Rings series [came out online](https://www.theonering.net/torwp/2021/08/02/111246-official-first-pic-of-amazons-lord-of-the-rings-series-release-confirmed-for-fall-2022/), and I thought I'd give my initial impressions as a fan off the books and Peter Jackson's LotR movie trilogy. 
+Just this past week, the first image of Amazon's Lord of the Rings series [came out online](https://www.theonering.net/torwp/2021/08/02/111246-official-first-pic-of-amazons-lord-of-the-rings-series-release-confirmed-for-fall-2022/), and I thought I'd give my initial impressions as a fan off the books and Peter Jackson's LotR movie trilogy.
+
+<!--more--> 
 
 ![Lord of the Rings first image](/assets/post-images/AmazonStudios_210802A_HD-1024x576.jpg)
 

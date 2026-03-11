@@ -5,6 +5,8 @@ tags: ["movies"]
 ---
 One of the things that I wanted to take advantage of on my trip back to South Africa was the chance to watch the new Deadpool movie that released 14 February. The timing was perfect for me as that was the very day that I would arrive from Japan!
 
+<!--more-->
+
 Now before I give my thoughts on the film you've got to realize three things:
 
   1. Movies in Japan are expensive;

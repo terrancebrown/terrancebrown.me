@@ -5,6 +5,8 @@ tags: ["tech"]
 ---
 Recently my friend Craig [posted over on his blog][1] how he'd stopped using his Android tablet after a while and was wondering whether other people have experienced something similar. So I thought I'd reply with how I use my iPad these days and just why it's still in my arsenal of tech gadgets.
 
+<!--more-->
+
 Almost every job I’ve had has seen me sitting in front of a desktop for a sizeable amount of time every day and even my teaching job has me slaving away over a keyboard to create worksheets and lesson plans every day. The end result of all this is that when I finish off the day at work and head back home the last thing I’m keen to do is to sit in front of yet another PC screen to read up on the days news or even type out these blog posts.
 
 When I need to do any of those things I whip out my trusty iPad Air and browse the web, catch up on my RSS feeds with [Unread][2] or type out a blog post in [Drafts][3] & [Ulysses][4]. And while doing this I can just sit back on the couch and not have to be shackled to a table or desk with a laptop or desktop computer.

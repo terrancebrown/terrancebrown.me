@@ -5,6 +5,8 @@ tags: ["personal"]
 ---
 If there is any time of the year that I feel ‘meh’ then this is it. The change of the seasons means that we’re in that zone right between spring and summer where the weather is just nice enough but has started tending towards being humid and sticky during some parts of the day.
 
+<!--more-->
+
 Back in South Africa I was fortunate enough to live in Cape Town where we have mild winters and rather dry and hot summers and while the summers could get rather high temperatures there was always the option of jumping in the pool or heading off to the beach with friends to cool down.
 
 Japanese summers on the other hand usually see my laying in a puddle of sweat on the floor wishing that I could jump into a huge pile of snow to cool down. The only time I’m not 99.9% sweat is the brief moment that I’m in the shower, but as soon as I step out I’m immediately sweating profusely.

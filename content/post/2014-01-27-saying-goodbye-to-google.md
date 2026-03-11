@@ -5,6 +5,8 @@ tags: ["tech"]
 ---
 Leaving Google seems almost the hipster thing to do these days but the more research I've done the more it seems as though the power users and geek users out there are opting to move to paid email platforms or open source alternatives rather than relying on the big G as they once used to. Just look at the recent backlash from many Nest users when Google spent $3.2 billion to buy Nest. Many people were turned off by the potential that Google would be gaining even _more_ information about them.
 
+<!--more-->
+
 Though this probably won't be something that affects Google any time soon in terms of raw user numbers the thing that should worry them is that those were the very same users who helped Google in their rise to prominence. The geek elite are the ones who lead the charge when it comes to embracing new ideas and approaches on the web and if you don't have them looking out for you then it's going to be hard to gain any traction.
 
 Google's not too worried though as they've already manage to wedge themselves into the average users daily life in a multitude of ways. From the billions of YouTube videos being shared to the uncountable web searches done everyday we rely on Google to such a huge degree that it's almost impossible to imagine surviving online without using their services.

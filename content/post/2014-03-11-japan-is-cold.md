@@ -5,6 +5,8 @@ tags: ["japan"]
 ---
 One of the biggest shocks to my system when I first moved to Japan as just how cold the winters here can be. Now those of you who come from the US or Canada will be laughing at me and telling me that your winters get just as cold if not more so, but what you've got to realize is that South Africa has particularly mild winters paired with hot, dry summers.
 
+<!--more-->
+
 On top of that most housing in Japan isn't insulated so when it gets hot it gets **hot** and when it gets cold it gets **cold**.
 
 Luckily though for me my part of Japan down in Kyushu doesn't get as much snow as the rest of Japan, so I managed to avoid the record snowfalls that hit most of eastern Japan during January and February.

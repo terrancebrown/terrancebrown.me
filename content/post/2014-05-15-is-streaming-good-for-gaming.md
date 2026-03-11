@@ -5,6 +5,8 @@ tags: ["gaming"]
 ---
 With PC gamers long having had multiple ways to capture and stream gaming footage it’s still taken a rather long time for streaming to become popular, but recently sites such as Twitch and Ustream have seen surges with the availability of capture devices such as the Elgato Game Capture HD.
 
+<!--more-->
+
 The latest generation of consoles from Sony and Microsoft have both opted to try to make capturing and streaming easier with built-in options to capture screenshots and stream online. This means that everyone and their dog can now take to the internet and show off their ‘_skillz_’ or lack thereof in the game of their choice.
 
 For me the most interesting part of this shift to streaming has been to see how people who have never had a chance to have an online presence have been able to gain an audience and share their opinions with everyone out there.

@@ -7,6 +7,8 @@ tags: ["japan"]
 ---
 To paraphrase Forest Gump, driving in Japan is like a box of chocolates. There's a lot of awesomeness awaiting you as you first head out onto the road in our new little car and realize that there's a whole world of beautiful and captivating sights and places to visit. But there is also the sudden realization that to balance all this awesomeness there is a lot of downsides to driving in Japan.
 
+<!--more-->
+
 First off, once you've actually managed to jump through enough hoops to satisfy the Japanese DMV that you won't immediately crash upon being let loose on the streets of Japan you'll find that the vast majority of the roads winding their way through the cities and countrysides of Japan are so narrow that even in a small kei car you'll find yourself wincing as each passing car seems to pass within mere millimetres of your side view mirror. It's probably because of this that one of the main sticking points with the driver's license test is to learn to hug the left side of the road as though your life depended on it, as it may very well save you from a nasty accident later on!
 
 Next up is the fact that addresses as we're used to in the West are very much non-existent here in Japan. Most of the time I've found that the simplest way is to navigate using a GPS system after putting in the telephone number of the house / shop / restaurant you want to visit. It's also behind the use of map codes that most GPS machines accept. If you don't have a GPS system or smartphone then you're going to have to rely on a series of arcane rituals known as '_asking for directions_' which usually end up getting you lost as you forget most of the steps about 5 minutes after being told exactly how to arrive at your destination.

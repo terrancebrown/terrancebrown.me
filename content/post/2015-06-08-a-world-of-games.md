@@ -5,6 +5,8 @@ tags: ["gaming"]
 ---
 Trying to play too many games at the same time is the main reason I hardly ever finish any game in my substantial backlog. It's also the reason that I got severely burned out on gaming a few years ago despite the fact that the last few years have seen a surge in the release of quality games. Unfortunately, the prospect of another 60 to 200 hour game, no matter how amazing it is, became something I dreaded rather than anticipated.
 
+<!--more-->
+
 What's brought this into my mind is the recently released trailer for Fallout 4 as well as the severe drop in my free gaming time since last year. My first thought when seeing the trailer was,
 
 > "I should really pick up the GOTY editions of Fallout 3 and Fallout New Vegas and play through them before Fallout 4 releases."

@@ -7,6 +7,8 @@ tags: ["japan"]
 
 It's been a whirlwind two weeks for me recently, with my parents and two friends coming through to Japan. I've had to try and organize hotels, itineraries and transport for them as well as helping them navigate the many subtle things that make Japan so _Japan_.
 
+<!--more-->
+
 It was tremendously fun to spend some time with them in Tokyo and Yokohama, as I haven't had much chance to go outside my little countryside town for the past few months.
 
 Tokyo itself is always a bit of a shock to my system as it's so _big_ compared to every other city I've ever been to. Half the fun in a city as big as Tokyo is just losing yourself in the myriad of small streets and alleys that seem to hold an endless supply of small _[izakaya][1]_ and [snack bars][2].

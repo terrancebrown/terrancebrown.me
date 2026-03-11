@@ -5,6 +5,8 @@ tags: ["japan"]
 ---
 It's been a long time since I've updated my blog much to my shame. There are many, many reasons why I haven't had a chance to set aside some time to sit down and knock out a short post or two.
 
+<!--more-->
+
 I've recently changed schools (for the third time during my JET programme career!) and that means that there's been a _lot_ of organization and paperwork to get out of the way and it's only now that I've managed to get settled in at my new school. This is the first actual free time I've had since then while the summer holidays are in full swing with September being the start of my actual classes with all my new students.
 
 During June and July most of my time was spent desperately trying to cram in as much Japanese studying as possible in the hopes it would stick in my head before I took the JLPT N5 test at the start of last month.

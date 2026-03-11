@@ -6,6 +6,8 @@ tags: ["personal"]
 
 Just a short post to say that I've managed to get my first vaccination shot today.
 
+<!--more-->
+
 My age group isn't yet *officially* able to get vaccinated, but most clinics are allowing walk-ins, so I decided to try my luck this morning.
 
 My local centre was very well organized and even though it took me more than 90 minutes to get in and out, the entire process was rather painless and went by without a hitch. No one was frustrated or upset with the wait, and all the staff were pleasant and helpful to all of us.

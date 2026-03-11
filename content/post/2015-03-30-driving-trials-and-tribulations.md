@@ -5,6 +5,8 @@ tags: ["japan"]
 ---
 Driving in Japan is an exercise in patience. First you need to go through what seems like a million miles of red tape just to get your license. Afterwards comes the second hurdle, actually being able to use your car to and from work.
 
+<!--more-->
+
 Companies here in Japan are notoriously strict when it comes to allowing their employees to use their own vehicles to commute to and from work and even _more_ strict with foreigners looking to do the same.
 
 In the case of JET or direct hire ALTs their contract of employment explicitly states that they may not use their vehicles to and from school without the express permission of their supervisor. When I originally asked to be able to use my car to commute to and from work I had to provide the registration papers for my car as well as the insurance coverage forms along with an application form on which I had to actually draw a map of the route I'd be using from my house to my main school. Even after all that they still asked me a million questions before finally allowing me to drive to my main school!

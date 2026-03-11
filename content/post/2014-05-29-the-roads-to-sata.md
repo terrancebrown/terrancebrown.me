@@ -5,6 +5,8 @@ tags: ["books"]
 ---
 One thing I always get asked is why I chose to come to Japan and my usual answer is that I came here because I wanted to try my hand at teaching and because I have an appreciation of Japanese history and culture. The truth is that is only part of the why I really ended up living here.
 
+<!--more-->
+
 What I want to write about today is a book that really ignited my fascination and love for Japan and helped me finally make the decision to apply for the JET programme and leave my family and friends behind as I hopped on a plane bound for Tokyo nearly three years ago.
 
 [_The Roads to Sata_ by Alan Booth][1] was written in the late 1970s and describes the author’s journey from the most northern part of the four main islands at Cape Soya on Hokkaido all the way down to the most southern part of Kyushu at Cape Sata. It took him 128 days of walking through every type of weather before he finally reached Cape Sata and the book looks at all the people he met along the way and his thoughts about Japan as a country.

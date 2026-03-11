@@ -5,6 +5,8 @@ tags: ["japan"]
 ---
 What should have been a rather boring and uneventful Tuesday morning turned out to be rather eventful with my town's emergency PA system blaring out a warning around 6am.
 
+<!--more-->
+
 Being pretty much still asleep I turned on my phone to see what time it was and was greeted by an emergency warning message in Japanese saying that a missile was travelling over the northern parts of Japan and that people should be careful of anything that might fall in the case of the missile exploding or falling apart.
 
 Thankfully though it was more of a precaution than anything else, as where I live is very far from where the missile trajectory was. The government had decided to notify many of the surrounding prefectures just in case though.

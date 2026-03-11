@@ -5,6 +5,8 @@ tags: ["writing"]
 ---
 After what seems like an eternity I'm finally getting around to posting again. It's been a whole year that's passed since I've updated this site. I've been far from inactive outside of this site though, so let me finally get around to telling you what I've been up to.
 
+<!--more-->
+
 Firstly, and most importantly, I've changed countries and instead of Japan I am now in the far-flung exotic country of China. Shanghai to be more specific. I'm sure that I could write a **whole** more about life in China, and I undoubtedly will, but for now I can say that I am settling nicely into life in China despite having some slight bumps along the way when it comes to cultural differences. But overall China is a country that seems to be constantly changing and evolving which makes living here an adventure.
 
 In terms of my work I'm still teaching English, but this time around I'm at an international school teaching students who are aiming to attend prestigious foreign universities in the future. I'm also doing some writing and proofreading on the side which helps keep my wallet nice and full!

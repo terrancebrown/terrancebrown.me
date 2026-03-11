@@ -5,6 +5,8 @@ tags: ["movies"]
 ---
 On December 18 I was one of millions of moviegoers around the world that headed off to see the first showing of Star Wars Episode VII.
 
+<!--more-->
+
 Those of us who had seen both the original trilogy and the prequels knew that despite all the hype, anticipation, and awesome trailers there was a chance that the films would end up being terrible and a huge let down for us nerds and geeks who have so fallen in love with the characters and universe created by George Lucas.
 
 When the title screen came up and the Star Wars theme music started to play I was taken all the way to a galaxy far, far, away for the next two and a half hours. The movie gave me a fantastic mix of nostalgia, action, dialogue, and new characters that far surpassed anything from the prequels which saw me relieved and surprised at just how well the movie turned out.

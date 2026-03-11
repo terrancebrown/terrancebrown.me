@@ -5,6 +5,8 @@ tags: ["writing"]
 ---
 Whenever September rolls around I scramble on the first day of the month to be one of the first people to order my Hobonichi Techo for the following year. Now if you don't know what a Hobonichi Techo is then I wouldn't be surprised. A Hobonichi Techo is really just a Japanese planner or diary, but at the same time it's a book that prides itself on being a vessel for your thoughts, your life, and anything you want to use it for. If you look at the usage examples on [their website][1] you'll find a million and one ways that people around the world have customized to fit their lifestyles. For a quick refresher you can also read [my initial impressions][2] and see what I thought of it when I first started using it back in 2015.
 
+<!--more-->
+
 This year I actually tried using multiple planners including the [Jibun Techo][3], [EDiT Techo][4], two [Midori Traveler's Notebook diaries][5] and my trusty old Hobonichi Techo. Heck, I even went so far as to buy a Japanese magazine that specializes in how to use planners in Japan!
 
 All in all I barely touched most of them and decided that at most I'd go with two planners for 2017: one to use as a writing journal, which is how I've been using my Hobonichi Techo; and another to use as a general planner and a way to track the lessons I teach.

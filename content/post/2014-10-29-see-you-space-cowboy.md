@@ -7,6 +7,8 @@ tags: ["tv"]
 ---
 Nowadays I don't watch much anime which is pretty surprising given that I live in Japan and used to watch epic amounts of anime as a college student and young adult.
 
+<!--more-->
+
 I think it came down to a combination of burnout and just that the quality of shows started dropping off pretty sharply. I've also never been into shows such as _Naruto_, _Bleach_ or _One Piece_ that stretch on and on over what feels like decades.
 
 Despite the apathy I've had towards anime over the last few years I just went and pre-ordered the [new Blu-ray release of _Cowboy Bebop_][1].

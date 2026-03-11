@@ -5,6 +5,8 @@ tags: ["linux"]
 ---
 Twelve years ago on this very day I took a leap of faith into the wonderful world of Linux.
 
+<!--more-->
+
 I was still living in South Africa and I was but a poor employee rattling off spreadsheets for mere peanuts. That meant that I was always hard-pressed for cash when it came to my computing hardware and software, especially as those were the days when Microsoft still charged a pretty penny for the right to upgrade to their new and shiny versions of Windows.
 
 So it was around then that I decided to finally try out a little distro by the name of Ubuntu. It had become popular with its focus on being a Linux distro for humans in that it took a somewhat notoriously difficult to use operating system and tried to make it easy to install and use as a replacement for the bloated and expensive Windows OS.

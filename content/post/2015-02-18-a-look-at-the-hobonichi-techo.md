@@ -5,6 +5,8 @@ tags: ["writing"]
 ---
 This year I’ve started looking at journalling on a daily basis. The first two years I lived in Japan I actually used a hardcover Moleskine pocket notebook that I would write in on a weekly basis. It worked well but keeping a journal in something as small as a pocket notebook is frustrating for anything more substantial.
 
+<!--more-->
+
 This led to me picking up a basic lined cahier style notebook from Typo which had recently opened up several stores in South Africa. Arriving back home in Japan, I was disappointed to find that the paper quality was pretty terrible and using a fountain pen with it led to plenty of bleedthrough and feathering. Pretty terrible for any sort of writing!
 
 So with that failed journal experiment I was on the lookout for a new journal to use from the start of this year. A simple web search for popular journals available in Japan led me to stumbling on the Hobonichi Techo journal.

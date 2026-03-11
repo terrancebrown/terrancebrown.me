@@ -5,6 +5,8 @@ tags: ["writing"]
 ---
 2019 is a few weeks old now so it’s a good time for me to post about my latest batch of Hobonichi purchases and give a run-down of how I’m planning to use them this year in both my daily life and at work. This year sees me entering my fifth year of using a Hobonichi of some sort as my planner. I would scarcely have though all the way back in 2015 that I’d be this deep down the rabbit hole of scheduling and planners.
 
+<!--more-->
+
 ![Doraemon cover](/assets/post-images/doraemoncover.jpg)
 
 ## Doraemon

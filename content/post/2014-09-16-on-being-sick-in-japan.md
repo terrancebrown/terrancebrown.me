@@ -7,6 +7,8 @@ tags: ["personal"]
 
 One of the main drawbacks with working in schools here in Japan is that you'll be exposed to a multitude of germs and viruses that almost every kid seems intent on spreading on to you.
 
+<!--more-->
+
 Especially during the winter months from December until February, there's usually large outbreaks of influenza that see many schools shutting down in hopes of stopping the illness in its tracks.
 
 Of course, one of the first things I got in Japan during my first winter was a terrible bout of influenza, which is officially the first time I ever got actual flu as opposed to just a bad cold. Luckily, though, the Public Health Service in Japan is phenomenal. Fast, efficient and cheap health care means that you're never stuck at home lying in the foetal position waiting for the worst to be over.

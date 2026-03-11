@@ -5,6 +5,8 @@ tags: ["personal"]
 ---
 It's a few months short of three years that I've now being living in Japan and in a week I'll be travelling home to South Africa for a short holiday. The only problem is that the person who is going back to South Africa is not the same person who left South Africa in 2011.
 
+<!--more-->
+
 Living in a foreign country has a strange effect on you as a person. It changes who you are and changes your view of the world in so many ways.
 
 What does not change though is the person you were when you left in the mind of your friends and family back home. You are still that same person to them even years later.

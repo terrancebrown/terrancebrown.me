@@ -5,6 +5,8 @@ tags: ["japan"]
 ---
 Every year at the end of March there's a lot of important events in schools around Japan. Not only are the students finally coming to the end of the academic year and the hundreds of tests that they have had to endure but the teachers themselves find out if they will be staying or transfer to another school.
 
+<!--more-->
+
 Now this was something as a surprise to me since South Africa doesn't have a teacher transfer system and it's extremely common in SA for teachers to spend almost all their professional lives at the same school. In Japan though teachers are frequently transferred between schools. Junior teachers can only spend up to four years at a single school while senior teachers can spend up to 9 years although that is pretty uncommon.
 
 In Kagoshima, where I teach, there's also a problem in that we're the only prefecture in Japan that is split between mainland Japan and a whole lot of smaller islands that can be rather isolated from the rest of the country. This means that there's a pretty good chance if you're a teacher or even an ALT that you'll be transferred or placed on an island. If that's the case then you'll hardly ever find yourself travelling to the mainland since it can cost quite a lot of money to take a ferry or plane.

@@ -5,6 +5,8 @@ tags: ["japan"]
 ---
 Spring in Japan is one of the most beautiful seasons anywhere in the world. Every street and park is filled with cherry blossom trees in full bloom and families and groups of office workers eating and drinking under the trees.
 
+<!--more-->
+
 It's also a bit of a respite from the freezing cold of winter before the humid heat and rain of summer arrives.
 
 The only downside of this time in Japan is that it's over almost before it started. By the time the first week of the cherry blossoms having bloomed comes to an end most of the trees no longer have any sakura and the picnics start becoming fewer and fewer.

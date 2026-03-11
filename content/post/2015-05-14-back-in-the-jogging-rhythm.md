@@ -5,6 +5,8 @@ tags: ["personal"]
 ---
 With spring and summer and all the awesome warm weather it bring (excluding the typhoons, humidity and numerous creepy crawly insects everywhere) it's finally become possible for me to put on my running shoes and hit the road on a daily basis.
 
+<!--more-->
+
 Living in Kagoshima I was lucky that there was hardly any snow during winter and even though it was freezing cold I could still go jogging as long as I was warmly dressed. Nagano has been a whole different beast to tackle in winter though. The snow here is almost constant in winter which means that every road and sidewalk turns jogging into a circus act featuring me as a rather clumsy clown sliding past everyone and frantically trying to grab the nearest light pole.
 
 This mean that most of the past winter I would usually get home and hide myself under my _kotatsu_ to try and survive rather than brave the weather and go jogging. I did try and break my inactivity addiction by purchasing an exercise bike and using it on and off but no matter what I tried, my _kotatsu_ was always there tempting me.

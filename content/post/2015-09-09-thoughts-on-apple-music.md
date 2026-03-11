@@ -7,6 +7,8 @@ tags: ["music"]
 > 
 > **- Trent Reznor**
 
+<!--more-->
+
 **Rolling Stone interview with Trent Reznor**
 
 Music has always been one of the most important ways I've found to inspire myself. Whether its to help me focus more on my studies, give me a welcome break during the day, or to just help me lose myself between the notes as I listen to my favourite songs music has always had an undeniable impact on my life.

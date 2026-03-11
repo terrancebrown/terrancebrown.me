@@ -5,6 +5,8 @@ tags: ["gaming"]
 ---
 The longer I sit here trying to type out a long and complicated analysis of Spelunky the more it hits me: Spelunky is at its core the ‘Ultimate Game’.
 
+<!--more-->
+
 For those of you that don’t know, Spelunky casts you as a cute looking Indiana Jones style explorer looking to make your way through a series of environments filled with traps and enemies all with the end goal of escaping with treasure and fame and fortune.
 
 On the face of it this is as simple and basic a game as you could find. At its core it can almost be seen as a game very similar to Pacman. All that’s asked of you is to complete a simple goal with the games mechanics slowly ramping up in difficulty the further you progress. In the case of Pacman this sees the ghosts moving faster and faster while in the case of Spelunky the traps and enemies become harder and more frequent.

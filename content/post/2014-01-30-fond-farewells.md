@@ -5,6 +5,8 @@ tags: ["gaming"]
 ---
 As I was walking to the local convenience store this morning it struck me that this weekend will be my last *official* weekend of gaming on my old PS3. After this weekend I'll be heading to South Africa for a short holiday before coming back to Japan and the weekend that I get back will be when the PS4 releases here in the land of the rising sun.
 
+<!--more-->
+
 Of course this doesn't mean I'll stop using it altogether but most of my time will be spent gaming on the PS4 if I know myself at all. Heck, I'll be surprised if I even get around to finishing off any of my PS3 backlog after I start using my PS4.
 
 It's very much the end of an era in terms of my gaming life. I spent a _long_ time gaming on both the Xbox 360 and PS3 with countless hours spent being killed in Halo 3 along with my band of fellow South African gamers.

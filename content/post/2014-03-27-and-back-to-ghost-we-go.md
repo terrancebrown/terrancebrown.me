@@ -5,6 +5,8 @@ tags: ["blogging"]
 ---
 There's two types of blog posts in this world:
 
+<!--more-->
+
   * posts about not posting;
   * and posts about changing a blog's backend.
 

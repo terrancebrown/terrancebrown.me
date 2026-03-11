@@ -5,6 +5,8 @@ tags: ["music"]
 ---
 One of my enduring loves is music. I've always been fascinated by music's ability to change your mood, whether it be lifting you up out of sad times or bringing back sad memories of past losses.
 
+<!--more-->
+
 I've always enjoyed putting on earphones and closing my eyes while I drift away into the space between the notes of whatever music I'm listening to and one of the best bands for me to lose myself in has always been Tool.
 
 Back in 2001 I had my first exposure to Tool when I saw the following music video:

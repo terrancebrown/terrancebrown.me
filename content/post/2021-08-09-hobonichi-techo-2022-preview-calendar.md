@@ -6,7 +6,9 @@ tags: ["writing"]
 
 With August halfway through, it's that time of year when the [preview for the 2022 Hobonichi planner is released](https://www.1101.com/store/techo/en/magazine/2022/y22/). I've blogged numerous times before on my obsession with this Japanese planner, and this year will be no exception.
 
-This is always my favourite time of the year, because I get to see a month full of articles about the various covers, collaborations and some interesting interviews about the upcoming 2022 line-up. The actual sales will start over three days: September 1, 2 and 3. 
+This is always my favourite time of the year, because I get to see a month full of articles about the various covers, collaborations and some interesting interviews about the upcoming 2022 line-up. The actual sales will start over three days: September 1, 2 and 3.
+
+<!--more--> 
 
 A couple of my highlights from the preview calendar:
 

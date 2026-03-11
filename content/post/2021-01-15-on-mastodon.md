@@ -5,6 +5,8 @@ tags: ["tech"]
 ---
 Back when I was living in South Africa I was an avid user of twitter. The idea of short form messages and being able to follow friends and sites without all the cruft of Facebook was appealing. Twitter at that stage was also still very much in its infancy and wasn't the hive of bots and politics that it is today. So I closed my account years ago and didn't miss it at all. The along came Mastodon, an open source and federated alternative to Twitter. And I was hooked.
 
+<!--more-->
+
 Mastodon takes what makes Twitter useful and kicks it up a notch. It enables anyone to host an instance  that can be connected to the federated network. So that in effect means that you can host your own version of the software and connect it to all other instances.
 
 The federated nature of Mastodon means it's far easier to create smaller, curated communities of users. But all those users can still follow users from other instances.

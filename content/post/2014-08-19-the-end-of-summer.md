@@ -6,6 +6,8 @@ tags: ["personal"]
 ---
 With the end of August in sight, it means that in the next few weeks classes will start up, and the summer holidays will be a thing of the past.
 
+<!--more-->
+
 It also means that I'll get to start teaching at my new school and get an idea of what the teachers and students will be like. So far my main school seems rather high level compared to where I taught previously, and it also looks like I'm going to have to be far more active in terms of creating materials and activities rather than relying on the lessons I did over the past three years. I think that's a good thing though, because if there is no challenge to your job then your motivation to push yourself begins to wane a little.
 
 It has been tough, though, adjusting to the 90-minute commute times and the 5:20am mornings. I dread to think what I'll do in the cold of winter if I still don't have my driver's license!

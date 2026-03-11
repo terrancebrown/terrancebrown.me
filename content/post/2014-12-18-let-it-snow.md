@@ -7,6 +7,8 @@ tags: ["personal"]
 ---
 For me December has always been a time of warm sunny days that are spent relaxing at home with family or hanging out with friends at the beach. Japanese winters though are a beast of a different nature.
 
+<!--more-->
+
 Especially now that I’ve moved to central Japan where snow is all too common during the winter months I’ve found it pretty tough to drag myself out of my warm futon to try and brave the blizzards and icy walkways on my way to school in the mornings.
 
 Back in South Africa I never had to deal with anything approaching sub zero temperatures or even snow. On the one hand I’m pretty much like a small child when it comes to snow, all gleeful laughter and running around in the new fallen snow, but on the other hand I’ve come to realize that snow is the icy god that freezes us without mercy like some sort of terrible force taken from the _Game of Thrones_.

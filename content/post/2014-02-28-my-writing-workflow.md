@@ -5,6 +5,8 @@ tags: ["writing"]
 ---
 One of the things I do most frequently on my laptop is to type out notes and documents. Whether it's a draft blog post or a few paragraphs of fiction, I've ended up using a combination of Ulysses III, Byword and Marked for nearly all my documents.
 
+<!--more-->
+
 Choosing a text editor or writing software on a Mac can be a daunting task. After all, there are a raft of wonderfully crafted editors each trying to make a name for themselves by addressing a specific need or niche. [Scrivener][1] focuses on being a *toolshed* for writers looking to gather all their research and materials together and typing out a fully formed book. On the opposite end of the spectrum is something like Byword that gives you a single window with nothing else and let's you type out whatever you want using the Markdown syntax.
 
 Personally I've always leaned towards apps that get out of your way and let you focus on the task at hand rather than presenting you with all the bells and whistles. It's so easy to end up spending more time tweaking the little writing you've done rather than the actual writing itself.

@@ -7,6 +7,8 @@ tags: ["personal"]
 ---
 I'm just about all set up in my new ALT position after a few busy weeks of paperwork, moving and what feels like a thousand other things that are all part and parcel of moving work & home in Japan.
 
+<!--more-->
+
 The school I'm working at now is pretty high level and offers not just English but several other language courses for kids such as Spanish and Korean.
 
 It's also _far_ bigger than my previous school, almost 3x as big! I think I will miss the fact that I could recognize almost all the students in my old school though. It's going to be hard knowing that I won't see many of them again and I'll miss the many crazy lessons I taught them.

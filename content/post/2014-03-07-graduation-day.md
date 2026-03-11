@@ -5,6 +5,8 @@ tags: ["japan"]
 ---
 This week was the graduation ceremony for the third years at my main high school. It's the main event of the school year and all the staff and students try their best to make sure that everything goes off without a hitch.
 
+<!--more-->
+
 As with most ceremonies in Japan it's a very formal affair with all the teachers and parents dressed as smart as possible. The teachers also make sure that all the kids are behaving themselves and not falling asleep during the ceremony (something they seem able to with alacrity).
 
 The parents are armed to the teeth with digital cameras and video recorders and as soon as their offspring makes an appearance there's a cavalcade of flash photography that ensues.

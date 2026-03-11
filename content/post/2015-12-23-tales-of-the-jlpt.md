@@ -5,6 +5,8 @@ tags: ["japan"]
 ---
 For all the times I’ve mentioned that I was studying for and planning to take the Japanese Language Proficiency Test (JLPT), I’ve never actually gone through with my plans and written the test! On two previous occasions I just felt that my studies, or lack thereof, meant that it was pretty pointless to sit it as I was pretty much guaranteed to fail it.  
 
+<!--more-->
+
 On July 5 this year though I arrived at Matsumoto University and whipped out my pencils to take the N5 level test along with countless other eager Japanese language learners all across Japan.
 
 Just over two hours later I emerged into the bright sun knowing that pass or fail I’m glad that I finally managed to work up the courage to go through and sit for the test.

@@ -5,6 +5,8 @@ tags: ["tech"]
 ---
 This is just a quick post to give some brief thoughts on my experience using Mastodon and Pleroma. Hopefully, anyone who stumbles on this and is a Twitter user might learn something new and move over to one of these federated platforms.
 
+<!--more-->
+
 ## Mastodon
 Mastodon was the first federated social network I started using. It's pretty well known and is the largest of the federated platforms. It's also the platform that most people jump to when they eventually decide to quit Twitter.
 

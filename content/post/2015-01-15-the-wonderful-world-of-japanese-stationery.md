@@ -5,6 +5,8 @@ tags: ["stationery"]
 ---
 One of the first things that comes to mind for many people when you mention Japan is the vast array of crazy inventions that come out seemingly daily.
 
+<!--more-->
+
 And yet among all the fads and failures that come out are a lot of pretty awesome and useful things, especially when it comes to stationery.
 
 Recently I discovered the treasure trove that is Japanese stationery on the wonderful [JetPens website][1] with their stock of pens, paper and stationery from Japan.

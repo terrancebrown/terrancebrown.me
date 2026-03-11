@@ -5,6 +5,8 @@ tags: ["gaming"]
 ---
 I jumped on the Kickstarter bandwagon at the same time as most other people, with the news that Tim & Co. at Double Fine were going to head back to the classic Lucasarts formula of laughs and puzzles with their [Double Fine Adventure][1].
 
+<!--more-->
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/AdXvZgIV1Q0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 As someone who grew up with Sam & Max, Ben Throttle and Guybrush Threepwood this was like mana from the heavens. The only adventure games that were still released in recent years tended to be made by Eastern European studios or one of the many German gaming companies and unfortunately most of them were as far removed from my memories of adventure gaming as is possible.

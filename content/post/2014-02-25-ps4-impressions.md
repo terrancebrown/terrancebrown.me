@@ -5,6 +5,8 @@ tags: ["gaming"]
 ---
 With the release of Sony's PS4 system in Japan on 22 February I decided to pick up a console for myself. Since moving to Japan I've moved to Sony's platform for almost all of my gaming (The Xbox 360 is all but non-existent here and the Xbox One hasn't even officially been given a release date yet.) and as I've never really bought a console at launch I thought I might as well give it a shot and see what all the fuss is about.
 
+<!--more-->
+
 So after managing to place a pre-order with Amazon and a few months wait the day arrived when I could finally unwrap my shiny new console and see if the gamer in me would come away impressed. So without further ado here are my initial thoughts that I scribbled in an email to some friends a day after using the PlayStation 4.
 
   * It's far snappier and quicker in terms of UI than the PS3 was. The PS3 store especially has a tendency to be as slow as a poorly done flash site running on someone's 3G connection.

@@ -5,6 +5,8 @@ tags: ["personal"]
 ---
 What a hectic past week it's been! I've just returned from my trip to South Africa and it feels a little bit sad to be back actually. For all it's crime and poverty, South Africa is still such a beautiful and amazing country that everyone should try to visit at least once in their lives.
 
+<!--more-->
+
 I lost count of the number of photos I took of all the sights I visited. Fortunately the weather gods were smiling the week I was there so I was able to visit almost everywhere I wanted and soak in some sun along the way. I even ended up with a bit of a suntan which must seem strange to the Japanese people here since Japan is in the middle of some of the worst snows it has had in ages.
 
 Briefly these were the places I visited:

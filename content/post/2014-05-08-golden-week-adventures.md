@@ -5,6 +5,8 @@ tags: ["japan"]
 ---
 The end of April and the start of May in Japan is always the best no matter what your job or where you are. It’s a glorious period know as Golden Week, which is the Japanese equivalent of Easter holidays in the there’s a slew of national holidays that see all and sundry take to the roads and the sky on their way to a week-long vacation.
 
+<!--more-->
+
 Of course the downside is that when you are one of those people yourself you soon find that every train, plane and bus is filled to bursting which makes travelling just a bit more stressful than it needs to be.
 
 That said, it’s still immensely satisfying to be able to just unwind and get away from the humdrum of your everyday routine and do something different.

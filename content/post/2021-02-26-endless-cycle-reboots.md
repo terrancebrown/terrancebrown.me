@@ -5,6 +5,8 @@ tags: ["tv"]
 ---
 A few days ago I read the news that the television series [*Frasier* would be returning to screens along with *Rugrats*](https://www.bbc.com/news/entertainment-arts-56191980). My first reaction wasn't excitement, but rather resignation.
 
+<!--more-->
+
 You see, I was a fan of *Frasier* back when it originally aired. I thought it was well written and the characters were funny. I enjoyed it and was sad to see it go when it stopped airing. But at no point did I long for it to return. I moved on to new shows and new characters and my tastes changed and evolved over the years.
 
 So, when I hear that the show is coming back, along with many others, I feel as though the state of television is stagnating rather than improving. TV station execs seem obsessed with cashing in on the current wave of nostalgia that seems to be prevalent in the rather rough times of 2020 and 2021. I, myself am not immune. I've been watching and enjoying scores of movies from the 80s and 90s and revelling in the nostalgia as a means of coping with a difficult time.

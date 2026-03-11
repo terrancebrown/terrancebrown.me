@@ -5,6 +5,8 @@ tags: ["personal"]
 ---
 This past December I hit the big 40 with the coming and going of my latest birthday. It's crazy to think that I've been on earth for 4 decades now and how my life has changed over the years. So why not ramble on a bit in this post as a way of seeing what I want to accomplish in the next 40 years.
 
+<!--more-->
+
 I started writing on this site back in 2014, but I'd been writing on Blogger and WordPress for years before that. Stupidly I deleted everything I wrote before, thinking that it was best consigned to the dumpster. Now I actually regret that, as much as most of my posts were rather banal, they are still a valuable look into my thinking and life and it's always good to look back and see how you've grown.
 
 So in 2014 I decided to grab a URL for my own site and installed WordPress and started writing. and I wrote a grand total of 41 posts in 2014. Unfortunately my posts would decrease with each passing year, which is a sign of how my life became increasingly complicated and various personal issues made it necessary to take a break from life online and focus on myself.
