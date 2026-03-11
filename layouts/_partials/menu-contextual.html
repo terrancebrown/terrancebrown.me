@@ -3,7 +3,7 @@
   https://gohugo.io/content-management/toc/
 */}}
 
-{{- if and .Params.toc .TableOfContents -}}
+{{- if and .Params.toc (strings.Contains (string .TableOfContents) "<li>") -}}
   <div class="bg-light-gray pa3 nested-list-reset nested-copy-line-height nested-links">
     <p class="f5 b mb3">{{ lang.Translate "whatsInThis" . }}</p>
       {{ .TableOfContents }}
