@@ -1,0 +1,24 @@
+{{ define "header" }}{{ partials.Include "page-header.html" . }}{{ end }}
+{{ define "main" }}
+  <div class="flex-l mt2 mw8 center">
+    <article class="center cf pv5 ph3 ph4-ns mw7">
+      <header>
+        <h1 class="f1">{{ .Title }}</h1>
+      </header>
+      <div class="lh-copy f4 nested-links {{ $.Param "text_color" | compare.Default "mid-gray" }}">
+        {{ $posts := where .Site.RegularPages "Section" "post" }}
+        {{ range $posts.GroupByDate "2006" }}
+          <h2 class="f3 fw1 athelas mt4 mb2 dark-gray">{{ .Key }}</h2>
+          <ul class="pa0 list">
+            {{ range .Pages }}
+              <li class="mb2 flex items-baseline">
+                <span class="f6 gray w3 flex-shrink-0">{{ .Date.Format "Jan 02" }}</span>
+                <a href="{{ .RelPermalink }}" class="link dim dark-gray">{{ .Title }}</a>
+              </li>
+            {{ end }}
+          </ul>
+        {{ end }}
+      </div>
+    </article>
+  </div>
+{{ end }}
