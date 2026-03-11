@@ -2,9 +2,10 @@
 title: "Contact"
 description: "Get in touch with Terrance Brown."
 comments: false
+layout: contact
 ---
 
-<form action="https://formspree.io/f/mojkdalj" method="POST" class="mt4">
+<form action="https://formspree.io/f/mojkdalj" method="POST">
   <div class="mb3">
     <label for="name" class="db mb1 fw6">Name</label>
     <input type="text" id="name" name="name" required

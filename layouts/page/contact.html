@@ -1,0 +1,7 @@
+{{ define "header" }}{{ partials.Include "page-header.html" . }}{{ end }}
+{{ define "main" }}
+  <div class="mw7 center ph3 ph4-ns pv5">
+    <h1 class="f1 mb4">{{ .Title }}</h1>
+    {{ .Content }}
+  </div>
+{{ end }}
