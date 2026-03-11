@@ -28,13 +28,16 @@ No matter how you ended up on my blog I hope you'll enjoy reading through past p
 
 ## Social Media
 
-When it comes to using social media, I prefer to use decentralized, open, and free social networks.
-
 You can find me on the following services:
 
-1. [Mastodon](https://social.lol/@terrance) — A federated alternative to Twitter.
-2. [Bookwyrm](https://bookwyrm.social/user/merkaba) — A federated alternative to Goodreads.
-3. [PixelFed](https://pixelfed.social/merkaba) — A federated alternative to Instagram.
-4. [LinkedIn](https://www.linkedin.com/in/terrancebrownza/) — A network for professionals.
+1. [Mastodon](https://social.lol/@terrance)
+2. [Bluesky](https://bsky.app/profile/merkaba.bsky.social)
+3. [GitHub](https://github.com/terrancebrown)
+4. [Instagram](https://www.instagram.com/merkabaza/)
+5. [PixelFed](https://pixelfed.social/merkaba) — A federated alternative to Instagram.
+6. [LinkedIn](https://www.linkedin.com/in/terrancebrownza/)
+7. [Goodreads](https://www.goodreads.com/merkaba)
+8. [Bookwyrm](https://bookwyrm.social/user/merkaba) — A federated alternative to Goodreads.
+9. [Letterboxd](https://letterboxd.com/merkabaza/)
 
 You can find all my other numerous sites and miscellaneous links [here](https://terrance.omg.lol/).

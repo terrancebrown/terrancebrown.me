@@ -11,7 +11,7 @@ enableRobotsTXT = true
   favicon = "/favicon.svg"
 
 [params.ananke.social.follow]
-  networks = ["mastodon", "bluesky", "github", "instagram", "linkedin", "goodreads", "letterboxd", "rss"]
+  networks = ["mastodon", "bluesky", "github", "instagram", "pixelfed", "linkedin", "goodreads", "bookwyrm", "letterboxd", "rss"]
 
 [params.ananke.social.networks.goodreads]
   slug = "goodreads"
@@ -27,6 +27,20 @@ enableRobotsTXT = true
   profile = "https://letterboxd.com/%s/"
   icon = "letterboxd"
 
+[params.ananke.social.networks.pixelfed]
+  slug = "pixelfed"
+  label = "PixelFed"
+  color = "#1a1a2e"
+  profile = "https://pixelfed.social/%s"
+  icon = "pixelfed"
+
+[params.ananke.social.networks.bookwyrm]
+  slug = "bookwyrm"
+  label = "Bookwyrm"
+  color = "#b5c9a1"
+  profile = "https://bookwyrm.social/user/%s"
+  icon = "bookwyrm"
+
 [params.ananke.social.mastodon]
   profilelink = "https://social.lol/@terrance"
   rel = "me"
@@ -40,10 +54,16 @@ enableRobotsTXT = true
 [params.ananke.social.instagram]
   username = "merkabaza"
 
+[params.ananke.social.pixelfed]
+  username = "merkaba"
+
 [params.ananke.social.linkedin]
   username = "terrancebrownza"
 
 [params.ananke.social.goodreads]
+  username = "merkaba"
+
+[params.ananke.social.bookwyrm]
   username = "merkaba"
 
 [params.ananke.social.letterboxd]
