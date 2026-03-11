@@ -6,10 +6,16 @@
     </div>
   </article>
   <div class="mw8 center ph3 pb6">
-    <div class="flex flex-wrap">
-      {{ range .Data.Pages }}
-        <a href="{{ .RelPermalink }}" class="link f5 fw6 mr3 mb3 ph3 pv2 br2 bg-light-gray hover-bg-silver dark-gray">
-          {{ .LinkTitle }} <span class="f6 normal silver">({{ len .Pages }})</span>
+    <div class="flex flex-wrap items-baseline">
+      {{ range .Data.Pages.ByTitle }}
+        {{ $count := len .Pages }}
+        {{ $size := "f5" }}
+        {{ if ge $count 30 }}{{ $size = "f2" }}
+        {{ else if ge $count 15 }}{{ $size = "f3" }}
+        {{ else if ge $count 8 }}{{ $size = "f4" }}
+        {{ end }}
+        <a href="{{ .RelPermalink }}" class="link {{ $size }} fw6 mr4 mb4 dark-gray dim" title="{{ $count }} posts">
+          {{ .LinkTitle }}<sup class="f7 normal silver ml1">{{ $count }}</sup>
         </a>
       {{ end }}
     </div>

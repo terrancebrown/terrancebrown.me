@@ -9,6 +9,8 @@ enableRobotsTXT = true
   author = "Terrance Brown"
   subtitle = "Meanderings and musings"
   favicon = "/favicon.svg"
+  recent_posts_number = 10
+  images = ["/images/og-default.png"]
 
 [params.ananke.social.follow]
   networks = ["mastodon", "bluesky", "github", "instagram", "pixelfed", "linkedin", "goodreads", "bookwyrm", "letterboxd", "rss"]

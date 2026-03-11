@@ -24,20 +24,4 @@ I'm also trying to keep up my habit of reading a good few books but no matter ho
 
 When I do get around to blogging I usually write about whatever is on my mind, so you're likely to find a mix of gaming, movies, music, stationery, books and random bits of Japan to read while you browse through the archives.
 
-No matter how you ended up on my blog I hope you'll enjoy reading through past posts and find something interesting.
-
-## Social Media
-
-You can find me on the following services:
-
-1. [Mastodon](https://social.lol/@terrance)
-2. [Bluesky](https://bsky.app/profile/merkaba.bsky.social)
-3. [GitHub](https://github.com/terrancebrown)
-4. [Instagram](https://www.instagram.com/merkabaza/)
-5. [PixelFed](https://pixelfed.social/merkaba) — A federated alternative to Instagram.
-6. [LinkedIn](https://www.linkedin.com/in/terrancebrownza/)
-7. [Goodreads](https://www.goodreads.com/merkaba)
-8. [Bookwyrm](https://bookwyrm.social/user/merkaba) — A federated alternative to Goodreads.
-9. [Letterboxd](https://letterboxd.com/merkabaza/)
-
-You can find all my other numerous sites and miscellaneous links [here](https://terrance.omg.lol/).
+No matter how you ended up on my blog I hope you'll enjoy reading through past posts and find something interesting. You can also find all my other links and miscellaneous sites [here](https://terrance.omg.lol/).

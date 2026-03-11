@@ -3,6 +3,7 @@
   <a class="f4 fw4 hover-white white-70 dn dib-ns pv2 ph3 no-underline" href="{{ .Site.Home.Permalink }}" >
     &copy; {{ with .Site.Copyright | compare.Default .Site.Title }} {{ . | safe.HTML }} {{ now.Format "2006"}} {{ end }}
   </a>
+    <a class="f6 fw4 hover-white white-70 pv2 ph3 no-underline" href="#">↑ Top</a>
     <div class="flex items-center">
       {{ partials.IncludeCached "social/follow.html" . }}
     </div>
