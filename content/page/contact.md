@@ -2,7 +2,6 @@
 title: "Contact"
 description: "Get in touch with Terrance Brown."
 comments: false
-layout: contact
 ---
 
 Feel free to get in touch using the form below.
