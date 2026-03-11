@@ -1,5 +1,5 @@
 ---
-featured_image: "/images/hero.jpg"
+featured_image: "/images/hero.webp"
 featured_image_class: "cover bg-center"
 description: "Meanderings and musings."
 ---
