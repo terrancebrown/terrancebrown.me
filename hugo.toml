@@ -80,3 +80,13 @@ enableRobotsTXT = true
     name = "Contact"
     url = "/page/contact/"
     weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "/tags/"
+    weight = 4
+
+[[menu.main]]
+    name = "Search"
+    url = "/page/search/"
+    weight = 5
