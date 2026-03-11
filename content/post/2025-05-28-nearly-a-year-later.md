@@ -11,4 +11,4 @@ I can't same that's happened in this case, more that life and work have just see
 
 I'll do my best to make sure that I can at least post every few weeks, though. I'm not even certain anyone reads this anymore!
 
-If you are reading this and want to get in touch, just pop me an email to the address linked in the sidebar.
+If you are reading this and want to get in touch, feel free to reach out via the [Contact page](/page/contact/).

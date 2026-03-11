@@ -3,7 +3,7 @@ date: 2016-05-02
 title: Saying Goodbye
 tags: ["japan"]
 ---
-April is a time of year in Japanese schools that [I've written about before]({% post_url /2014/2014-03-26-the-annual-teacher-swap %}), but despite that it still hasn't gotten any easier every year to see teachers I've come to know well move on to other schools.
+April is a time of year in Japanese schools that [I've written about before](/post/2014-03-26-the-annual-teacher-swap/), but despite that it still hasn't gotten any easier every year to see teachers I've come to know well move on to other schools.
 
 This year I've had to say goodbye to one of my favourite teachers at my visit school as she has had to move on to a new school after 8 years of teaching at my current visit school.
 

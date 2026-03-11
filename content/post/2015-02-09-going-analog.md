@@ -3,7 +3,7 @@ date: 2015-02-09
 title: Going Analogue
 tags: ["writing"]
 ---
-In a previous post I talked about how I'd discovered the [world of Japanese stationery]({% post_url /2015/2015-01-15-the-wonderful-world-of-japanese-stationery %}). This time I want to talk about how that new found interest of mine has started filtering into my daily routine.
+In a previous post I talked about how I'd discovered the [world of Japanese stationery](/post/2015-01-15-the-wonderful-world-of-japanese-stationery/). This time I want to talk about how that new found interest of mine has started filtering into my daily routine.
 
 Most of my writing, lists and general note taking has been done with the help of many, many useful apps on my iPhone, iPad or MacBook. This year though I've slowly moved to an analogue system of writing everything down by hand. In fact, this very post was written with a [Lamy Safari fountain pen][1] on a [Maruman Mnemosyne N188 pad][2].
 

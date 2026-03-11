@@ -3,7 +3,7 @@ date: 2014-02-21
 title: Thoughts on FastMail
 tags: ["tech"]
 ---
-Recently I've been looking to [move away from Google's free services]({% post_url /2014/2014-01-27-saying-goodbye-to-google %}) to solutions that, while paid, might be a better fit for me as well. There's also the fact that Google has a tendency to shutter their services. Throw in privacy concerns and the slow influx of ads into their best services like Gmail and there has been no better time than now to look at moving on.
+Recently I've been looking to [move away from Google's free services](/post/2014-01-27-saying-goodbye-to-google/) to solutions that, while paid, might be a better fit for me as well. There's also the fact that Google has a tendency to shutter their services. Throw in privacy concerns and the slow influx of ads into their best services like Gmail and there has been no better time than now to look at moving on.
 
 The first step in this plan was for me to start moving away from Gmail and look for alternatives as Gmail is the service I use the most from Google. I'm speaking about _paid_ alternatives rather than just moving over to Microsoft Outlook or Yahoo Mail which would just be the lesser of two evils and would defeat the whole purpose of moving away from Google by merely giving my personal data to another large corporate entity.
 

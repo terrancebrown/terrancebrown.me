@@ -3,7 +3,7 @@ date: 2016-05-10
 title: The Kojima-P.T. Conspiracy
 tags: ["gaming"]
 ---
-You remember a while back when I wrote about [my frustrations with Konami]({% post_url /2016/2016-01-27-oh-konami %})?
+You remember a while back when I wrote about [my frustrations with Konami](/post/2016-01-27-oh-konami/)?
 
 Well, a YouTuber by the name of RagnarRox just released a video today shedding an insightful light on what could have been the reasoning behind the cancellation of P.T.
 
