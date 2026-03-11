@@ -5,7 +5,9 @@ comments: false
 layout: contact
 ---
 
-<form action="https://formspree.io/f/mojkdalj" method="POST">
+Feel free to get in touch using the form below.
+
+<form action="https://formspree.io/f/mojkdalj" method="POST" class="mt4">
   <div class="mb3">
     <label for="name" class="db mb1 fw6">Name</label>
     <input type="text" id="name" name="name" required
