@@ -1,7 +1,7 @@
 ---
 date: 2021-02-06
 title: John Carpenter's Apocalypse Trilogy
-tags: ["podcast"]
+tags: ["podcasts"]
 ---
 It's been a while since I last managed to get out a video and podcast as part of our *Miskatonic Alumni Association* side-project, but your patience is rewarded as today sees the release of the latest video discussion.
 

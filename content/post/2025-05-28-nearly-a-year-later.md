@@ -1,7 +1,7 @@
 ---
 date: 2025-05-28
 title: Nearly a Year Later
-tags: ["life updates"]
+tags: ["personal"]
 ---
 It's been almost a year since my last post. 
 

@@ -1,7 +1,7 @@
 ---
 date: 2019-08-24
 title: Moving Back to Linux
-tags: ["linux"]
+tags: ["tech"]
 ---
 Twelve years ago on this very day I took a leap of faith into the wonderful world of Linux.
 

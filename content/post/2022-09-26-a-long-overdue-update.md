@@ -1,7 +1,7 @@
 ---
 date: 2022-09-26
 title: Hello World
-tags: ["life updates"]
+tags: ["personal"]
 ---
 
 Well that was a bit of a break from writing now wasn’t it!

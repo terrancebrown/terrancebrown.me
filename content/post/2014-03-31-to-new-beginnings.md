@@ -1,7 +1,7 @@
 ---
 date: 2014-03-31
 title: To New Beginnings
-tags: ["teaching"]
+tags: ["japan"]
 ---
 With the end on March finally here the school year is now officially over and us teachers have to get ready for a new group of students to arrive and try our best to make sure that they can cope with their school lives and start their journey to university and an eventual career in whatever field they choose.
 
