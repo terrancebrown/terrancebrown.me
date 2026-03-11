@@ -4,8 +4,6 @@ description: "Get in touch with Terrance Brown."
 comments: false
 ---
 
-The best way to reach me is through one of my social links below, or you can find all my links at [terrance.omg.lol](https://terrance.omg.lol/).
-
 <form action="https://formspree.io/f/mojkdalj" method="POST" class="mt4">
   <div class="mb3">
     <label for="name" class="db mb1 fw6">Name</label>
