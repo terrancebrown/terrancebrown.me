@@ -27,6 +27,12 @@ enableRobotsTXT = true
   profile = "https://letterboxd.com/%s/"
   icon = "letterboxd"
 
+[params.ananke.social.networks.linkedin]
+  slug = "linkedin"
+  label = "LinkedIn"
+  profile = "https://linkedin.com/in/%s"
+  icon = "linkedin"
+
 [params.ananke.social.networks.pixelfed]
   slug = "pixelfed"
   label = "PixelFed"
