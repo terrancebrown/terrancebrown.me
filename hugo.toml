@@ -15,6 +15,9 @@ enableRobotsTXT = true
 [params.ananke.social.follow]
   networks = ["mastodon", "bluesky", "github", "instagram", "pixelfed", "linkedin", "goodreads", "bookwyrm", "letterboxd", "rss"]
 
+[params.ananke.social.share]
+  networks = ["bluesky", "email"]
+
 [params.ananke.social.networks.goodreads]
   slug = "goodreads"
   label = "Goodreads"
