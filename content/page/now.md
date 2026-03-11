@@ -8,24 +8,31 @@ comments: false
 
 ## Location
 
-<!-- Where you are currently based -->
+Cape Town, South Africa.
 
 ## Work
 
-<!-- What you're currently working on professionally -->
+Running a small business focused on ladies fashion, streetwear, and accessories.
 
 ## Reading
 
-<!-- What you're currently reading -->
+Just finished *Kings of the Wyld* by Nicholas Eames and currently working my way through *Neuromancer* by William Gibson.
 
 ## Playing
 
-<!-- What you're currently playing -->
+- *Rocket League* on PS5
+- *Coffee Talk* on PC
+- Recently picked up *Septerra Core* from GOG
 
 ## Watching
 
-<!-- What you're currently watching -->
+Currently watching the anime *Akame Ga Kill*.
 
 ## Listening
 
-<!-- What you're currently listening to -->
+**Podcasts:**
+- Not Another D&D Podcast
+- The Jeff Gerstmann Show
+
+**Music:**
+- Robotech: The Vocal Music Collection

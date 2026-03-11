@@ -8,20 +8,41 @@ comments: false
 
 ## Hardware
 
-<!-- Computers, phones, peripherals, etc. -->
+- **MacBook Air M2** — primary laptop
+- **AMD Ryzen 5600X desktop** — 32GB RAM, for heavier workloads and gaming
 
 ## Editor & Terminal
 
-<!-- Code editor, terminal, shell setup -->
+- **Visual Studio Code** — code editor
+- **Terminal** (macOS default) — on the Mac
+- **PowerShell** — on Windows
 
 ## Software & Apps
 
-<!-- Day-to-day apps you rely on -->
+- **Proton Mail** — private email
+- **Fastmail** — email
+- **Firefox** — browser
+- **Shopify** — e-commerce platform for the business
 
 ## Desk Setup
 
-<!-- Desk, chair, monitor, accessories -->
+An IKEA desk that has slowly been taken over by journals, fountain pens, and an ever-growing collection of stationery.
 
 ## Stationery
 
-<!-- Notebooks, pens, planners -->
+**Notebooks & Planners:**
+- Hobonichi Techo Weeks
+- Hobonichi Techo A5 Cousin
+- Hobonichi Techo A6 Original
+- Jibun Techo
+- Field Notes
+
+**Pens:**
+- Pilot Kakuno
+- Pilot Vanishing Point
+- Kaweco Brass Sport
+- Platinum 3776
+- Pilot Custom
+
+**Inks:**
+- Pilot Iroshizuku — several colours
