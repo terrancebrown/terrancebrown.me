@@ -1,0 +1,34 @@
+[[main]]
+  name = "About"
+  url = "/page/about/"
+  weight = 1
+
+[[main]]
+  name = "Articles"
+  url = "/post/"
+  weight = 2
+
+[[main]]
+  name = "Archive"
+  url = "/page/archive/"
+  weight = 3
+
+[[main]]
+  name = "Now"
+  url = "/page/now/"
+  weight = 4
+
+[[main]]
+  name = "Uses"
+  url = "/page/uses/"
+  weight = 5
+
+[[main]]
+  name = "Contact"
+  url = "/page/contact/"
+  weight = 6
+
+[[main]]
+  name = "Tags"
+  url = "/tags/"
+  weight = 7

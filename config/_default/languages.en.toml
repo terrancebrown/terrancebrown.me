@@ -1,0 +1,24 @@
+languageCode = "en"
+languageName = "English"
+languageDirection = "ltr"
+weight = 1
+
+title = "A Life Abroad"
+
+[params]
+  description = "Meanderings on stationery, gaming, books, and the universe."
+  dateFormat = "2 January 2006"
+
+[params.author]
+  name = "Terrance Brown"
+  headline = "Meanderings and musings"
+  bio = "Meanderings on stationery, gaming, books, and the universe."
+  links = [
+    { mastodon = "https://social.lol/@terrance" },
+    { bluesky = "https://bsky.app/profile/merkaba.bsky.social" },
+    { github = "https://github.com/terrancebrown" },
+    { instagram = "https://instagram.com/merkabaza" },
+    { goodreads = "https://www.goodreads.com/merkaba" },
+    { letterboxd = "https://letterboxd.com/merkabaza/" },
+    { rss = "/index.xml" },
+  ]

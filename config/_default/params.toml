@@ -1,0 +1,24 @@
+colorScheme = "fire"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+enableSearch = true
+enableCodeCopy = true
+mainSections = ["post"]
+
+[homepage]
+  layout = "page"
+  showRecent = true
+  recentLimit = 10
+
+[article]
+  showDate = true
+  showAuthor = true
+  showReadingTime = true
+  showTableOfContents = true
+  showTaxonomies = true
+
+[list]
+  showSummary = true
+
+[sitemap]
+  excludedKinds = []
