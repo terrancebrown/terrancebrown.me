@@ -11,6 +11,7 @@ title = "A Life Abroad"
 
 [params.author]
   name = "Terrance Brown"
+  image = "img/avatar.jpg"
   headline = "Meanderings and musings"
   bio = "Meanderings on stationery, gaming, books, and the universe."
   links = [
