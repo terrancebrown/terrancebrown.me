@@ -2,6 +2,7 @@
 title: "Uses"
 description: "The hardware, software, and tools Terrance uses day to day."
 comments: false
+showDate: false
 ---
 
 *Inspired by [uses.tech](https://uses.tech/).*

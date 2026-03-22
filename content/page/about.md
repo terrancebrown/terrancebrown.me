@@ -2,6 +2,7 @@
 title: "About — A Life Abroad"
 description: "Terrance Brown — writer, reader, gamer, and world wanderer."
 comments: false
+showDate: false
 ---
 
 ## TLDR
