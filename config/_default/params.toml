@@ -5,6 +5,9 @@ enableSearch = true
 enableCodeCopy = true
 mainSections = ["post"]
 
+[header]
+  layout = "hybrid"
+
 [homepage]
   layout = "page"
   showRecent = true
