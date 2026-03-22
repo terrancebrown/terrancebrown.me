@@ -9,7 +9,7 @@ mainSections = ["post"]
   layout = "hybrid"
 
 [homepage]
-  layout = "page"
+  layout = "profile"
   showRecent = true
   recentLimit = 10
 
