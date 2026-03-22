@@ -1,6 +1,7 @@
 ---
 title: "Search"
 showDate: false
+showReadingTime: false
 ---
 
 <div id="search"></div>

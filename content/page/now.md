@@ -3,6 +3,7 @@ title: "Now"
 description: "What Terrance is up to right now."
 comments: false
 showDate: false
+showReadingTime: false
 ---
 
 *Last updated: March 2026. Inspired by [nownownow.com](https://nownownow.com/).*

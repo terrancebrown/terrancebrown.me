@@ -3,6 +3,7 @@ title: "Contact"
 description: "Get in touch with Terrance Brown."
 comments: false
 showDate: false
+showReadingTime: false
 ---
 
 The best way to reach me depends on what you want to say.
