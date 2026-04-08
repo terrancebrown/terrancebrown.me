@@ -21,6 +21,6 @@ title = "Low Polygon"
     { instagram = "https://instagram.com/merkabaza" },
     { goodreads = "https://www.goodreads.com/merkaba" },
     { letterboxd = "https://letterboxd.com/merkabaza/" },
-    { rss = "/index.xml" },
     { link = "https://lekker.page" },
+    { rss = "/index.xml" },
   ]
