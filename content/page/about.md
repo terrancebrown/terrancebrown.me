@@ -1,5 +1,5 @@
 ---
-title: "About — A Life Abroad"
+title: "About"
 description: "Terrance Brown — writer, reader, gamer, and world wanderer."
 comments: false
 showDate: false
