@@ -9,11 +9,6 @@
   weight = 2
 
 [[main]]
-  name = "Now"
-  url = "/page/now/"
-  weight = 4
-
-[[main]]
   name = "Uses"
   url = "/page/uses/"
   weight = 5

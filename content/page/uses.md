@@ -15,14 +15,14 @@ showReadingTime: false
 
 ## Editor & Terminal
 
-- **Visual Studio Code** — code editor
+- **VSCodium** — code editor
 - **Terminal** (macOS default) — on the Mac
 - **PowerShell** — on Windows
 
 ## Software & Apps
 
 - **Proton Mail** — private email
-- **Fastmail** — email
+- **Fastmail** — business email
 - **Firefox** — browser
 - **Shopify** — e-commerce platform for the business
 
@@ -32,19 +32,6 @@ An IKEA desk that has slowly been taken over by journals, fountain pens, and an 
 
 ## Stationery
 
-**Notebooks & Planners:**
-- Hobonichi Techo Weeks
-- Hobonichi Techo A5 Cousin
-- Hobonichi Techo A6 Original
-- Jibun Techo
-- Field Notes
-
-**Pens:**
-- Pilot Kakuno
-- Pilot Vanishing Point
-- Kaweco Brass Sport
-- Platinum 3776
-- Pilot Custom
-
-**Inks:**
-- Pilot Iroshizuku — several colours
+I keep the full inventory of my notebooks, planners, pens and inks
+over at [stationerygamer.com](https://stationerygamer.com), where
+stationery gets proper attention alongside the games.
