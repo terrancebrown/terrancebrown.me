@@ -1,6 +1,6 @@
 ---
 title: "About"
-description: "Terrance Brown — writer, reader, gamer, and world wanderer."
+description: "Terrance Brown, writer, reader, gamer, and world wanderer."
 comments: false
 showDate: false
 showReadingTime: false
@@ -22,6 +22,6 @@ These days I'm running my own business while also trying to tackle my ever-growi
 
 I'm also trying to keep up my habit of reading a good few books, but no matter how hard I try I seem incapable of achieving the [Goodreads](https://www.goodreads.com/Merkaba) goal I set myself each year!
 
-When I do get around to blogging — which isn't often — I usually write about whatever is on my mind, so you're likely to find a mix of gaming, movies, music, stationery, books and random bits of Japan to read while you browse through the archives.
+When I do get around to blogging (which isn't often), I usually write about whatever is on my mind, so you're likely to find a mix of gaming, movies, music, stationery, books and random bits of Japan to read while you browse through the archives.
 
 No matter how you ended up on my blog I hope you'll enjoy reading through past posts and find something interesting. You can also find all my other links and miscellaneous sites [here](https://lekker.page).

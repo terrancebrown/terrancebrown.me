@@ -10,21 +10,21 @@ showReadingTime: false
 
 ## Hardware
 
-- **MacBook Air M2** — primary laptop
-- **AMD Ryzen 5600X desktop** — 32GB RAM, for heavier workloads and gaming
+- **MacBook Air M2**: primary laptop
+- **AMD Ryzen 5600X desktop**: 32GB RAM, for heavier workloads and gaming
 
 ## Editor & Terminal
 
-- **VSCodium** — code editor
-- **Terminal** (macOS default) — on the Mac
-- **PowerShell** — on Windows
+- **VSCodium**: code editor
+- **Terminal** (macOS default): on the Mac
+- **PowerShell**: on Windows
 
 ## Software & Apps
 
-- **Proton Mail** — private email
-- **Fastmail** — business email
-- **Firefox** — browser
-- **Shopify** — e-commerce platform for the business
+- **Proton Mail**: private email
+- **Fastmail**: business email
+- **Firefox**: browser
+- **Shopify**: e-commerce platform for the business
 
 ## Desk Setup
 
